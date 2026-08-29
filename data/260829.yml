@@ -1,0 +1,60 @@
+about:
+  description: Next-generation ES module bundler
+  license: NOASSERTION
+  homepage: https://rollupjs.org
+  head: 78bfef0
+  archived: false
+  latestVersion: v4.63.1
+  collectedAt: 2026-08-29T06:59:06Z
+timeline:
+  created: 2015-05-14
+  lastCommit: 2026-08-28
+  lastRelease: 2026-08-28
+popularity:
+  star: 26305
+  watcher: 249
+  fork: 1766
+  release: 592
+  contributor: 470
+  pullRequest: 368
+  issue: 3510
+language:
+  JavaScript: 8423793
+  TypeScript: 1152937
+  Rust: 207482
+  HTML: 5020
+  CSS: 37
+totalLine: 9789269
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 4
+    mergedPR: 19
+    openPR: 4
+    closedIssue: 3
+    openIssue: 0
+    commit: 26
+  last90d:
+    since: 2026-05-31
+    release: 10
+    mergedPR: 68
+    openPR: 8
+    closedIssue: 6
+    openIssue: 1
+    commit: 85
+  last180d:
+    since: 2026-03-02
+    release: 15
+    mergedPR: 139
+    openPR: 12
+    closedIssue: 17
+    openIssue: 3
+    commit: 171
+  last360d:
+    since: 2025-09-03
+    release: 40
+    mergedPR: 269
+    openPR: 14
+    closedIssue: 47
+    openIssue: 16
+    commit: 330
