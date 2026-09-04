@@ -7,7 +7,7 @@ about:
   head: e90af89
   archived: false
   latestVersion: v4.63.1
-  collectedAt: 2026-09-04T19:26:43Z
+  collectedAt: 2026-09-04T21:08:54Z
 timeline:
   created: 2015-05-14
   lastCommit: 2026-09-04
@@ -84,6 +84,89 @@ total:
   openIssue: 582
   commit: 6360
 ---
+path: /home/runner/.x-repo/github.com/rollup/rollup
+collectedAt: 2026-09-04T21:08:58Z
+loc:
+  JavaScript:
+    code: 238029
+    comments: 4120
+    blanks: 23953
+    files: 12358
+  TypeScript:
+    code: 35340
+    comments: 1324
+    blanks: 2935
+    files: 372
+  Json:
+    code: 18655
+    comments: 0
+    blanks: 0
+    files: 85
+  Rust:
+    code: 5294
+    comments: 334
+    blanks: 477
+    files: 113
+  Html:
+    code: 250
+    comments: 0
+    blanks: 0
+    files: 24
+  Svg:
+    code: 228
+    comments: 0
+    blanks: 6
+    files: 27
+  Toml:
+    code: 80
+    comments: 24
+    blanks: 15
+    files: 7
+  Vue:
+    code: 68
+    comments: 0
+    blanks: 23
+    files: 11
+  Yaml:
+    code: 4
+    comments: 0
+    blanks: 0
+    files: 1
+  Css:
+    code: 3
+    comments: 0
+    blanks: 0
+    files: 1
+  Stratego:
+    code: 2
+    comments: 0
+    blanks: 0
+    files: 2
+  Jsx:
+    code: 1
+    comments: 0
+    blanks: 0
+    files: 1
+  Tsx:
+    code: 1
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 13242
+    blanks: 6593
+    files: 56
+  Text:
+    code: 0
+    comments: 302
+    blanks: 11
+    files: 277
+total:
+  code: 299716
+  comments: 19532
+  blanks: 34215
+  files: 13336
 ---
 date: "2026-08-24"
 repo:
