@@ -2,20 +2,20 @@ about:
   description: "Next-generation ES module bundler"
   license: NOASSERTION
   homepage: https://rollupjs.org
-  head: e90004a
+  head: 02340ec
   archived: false
   latestVersion: "v4.63.1"
-  collectedAt: 2026-09-07T04:56:33Z
+  collectedAt: 2026-09-07T19:26:18Z
 timeline:
   created: 2015-05-14
   lastCommit: 2026-09-07
   lastRelease: 2026-08-28
 popularity:
-  star: 26308
+  star: 26309
   watcher: 251
   fork: 1773
   release: 592
-  contributor: 453
+  contributor: 454
   pullRequest: 2871
   issue: 3512
 language:
@@ -29,61 +29,61 @@ recent:
   last30d:
     since: 2026-08-08
     release: 3
-    mergedPR: 17
-    openPR: 9
-    closedIssue: 2
-    openIssue: 2
-    commit: 22
+    mergedPR: 18
+    openPR: 8
+    closedIssue: 3
+    openIssue: 1
+    commit: 23
   last60d:
     since: 2026-07-09
     release: 5
-    mergedPR: 39
-    openPR: 12
-    closedIssue: 5
-    openIssue: 2
-    commit: 50
+    mergedPR: 40
+    openPR: 11
+    closedIssue: 6
+    openIssue: 1
+    commit: 51
   last90d:
     since: 2026-06-09
     release: 8
-    mergedPR: 64
-    openPR: 14
-    closedIssue: 5
-    openIssue: 3
-    commit: 75
+    mergedPR: 65
+    openPR: 13
+    closedIssue: 6
+    openIssue: 2
+    commit: 76
   last180d:
     since: 2026-03-11
     release: 15
-    mergedPR: 141
-    openPR: 18
-    closedIssue: 15
-    openIssue: 5
-    commit: 163
+    mergedPR: 142
+    openPR: 17
+    closedIssue: 16
+    openIssue: 4
+    commit: 164
   last360d:
     since: 2025-09-12
     release: 39
-    mergedPR: 265
-    openPR: 20
-    closedIssue: 43
-    openIssue: 17
-    commit: 317
+    mergedPR: 266
+    openPR: 19
+    closedIssue: 44
+    openIssue: 16
+    commit: 318
   last720d:
     since: 2024-09-17
     release: 100
-    mergedPR: 515
-    openPR: 23
-    closedIssue: 142
-    openIssue: 66
-    commit: 654
+    mergedPR: 516
+    openPR: 22
+    closedIssue: 143
+    openIssue: 65
+    commit: 655
 total:
   release: 592
-  mergedPR: 2494
-  openPR: 28
-  closedIssue: 2930
-  openIssue: 582
-  commit: 6361
+  mergedPR: 2495
+  openPR: 27
+  closedIssue: 2931
+  openIssue: 581
+  commit: 6362
 ---
 path: /home/runner/.x-repo/github.com/rollup/rollup
-collectedAt: 2026-09-07T04:56:41Z
+collectedAt: 2026-09-07T19:26:27Z
 loc:
   JavaScript:
     code: 238029
@@ -262,7 +262,7 @@ checks:
       - 'Warn: no fuzzer integrations found'
 ---
 eget:
-  collectedAt: 2026-09-07T04:56:43+00:00
+  collectedAt: 2026-09-07T19:26:29+00:00
   platform:
     darwin/arm64:
       name:  null
