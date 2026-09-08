@@ -5,7 +5,7 @@ about:
   head: 02340ec
   archived: false
   latestVersion: "v4.63.1"
-  collectedAt: 2026-09-08T02:20:43Z
+  collectedAt: 2026-09-08T04:58:39Z
 timeline:
   created: 2015-05-14
   lastCommit: 2026-09-07
@@ -83,7 +83,7 @@ total:
   commit: 6362
 ---
 path: /home/runner/.x-repo/github.com/rollup/rollup
-collectedAt: 2026-09-08T02:21:00Z
+collectedAt: 2026-09-08T04:58:47Z
 loc:
   JavaScript:
     code: 238029
