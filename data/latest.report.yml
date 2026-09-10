@@ -7,7 +7,7 @@ about:
   latestVersion: "v4.63.1"
   latestRelease: "v4.63.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T04:52:30Z
+  collectedAt: 2026-09-10T16:55:42Z
 timeline:
   created: 2015-05-14
   lastCommit: 2026-09-07
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-08-28
   lastPrerelease: 
 popularity:
-  star: 26307
+  star: 26306
   watcher: 251
   fork: 1774
   release: 592
@@ -87,7 +87,7 @@ total:
   commit: 6362
 ---
 path: /home/runner/.x-repo/github.com/rollup/rollup
-collectedAt: 2026-09-10T04:52:38Z
+collectedAt: 2026-09-10T16:55:55Z
 loc:
   JavaScript:
     code: 238029
