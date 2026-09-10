@@ -12,6 +12,28 @@ Next-generation ES module bundler
 x install rollup
 ```
 
+## Code insight
+
+Total: **298,071** lines of code across **12952** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| JavaScript | 238,029 | 4,120 | 23,953 | 12358 |
+| TypeScript | 35,340 | 1,324 | 2,935 | 372 |
+| Json | 18,771 | 0 | 0 | 85 |
+| Rust | 5,294 | 334 | 477 | 113 |
+| Html | 250 | 0 | 0 | 24 |
+
+## OpenSSF Scorecard
+
+Overall score: **5.2 / 10**
+
+Lowest-scoring checks:
+
+- **Code-Review** (3/10) — Found 4/11 approved changesets -- score normalized to 3
+- **Dangerous-Workflow** (0/10) — dangerous workflow patterns detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+
 ## Source
 
 - **Upstream**: <https://github.com/rollup/rollup>
@@ -36,30 +58,21 @@ x install rollup
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 3 | 18 | 8 | 3 | 1 | 23 |
+| last60d | 2026-07-12 | 5 | 40 | 12 | 6 | 1 | 51 |
 | 90d | 2026-06-12 | 8 | 61 | 14 | 6 | 2 | 76 |
+| last180d | 2026-03-14 | 15 | 137 | 18 | 14 | 4 | 164 |
 | 360d | 2025-09-15 | 39 | 264 | 20 | 44 | 16 | 318 |
+| last720d | 2024-09-20 | 100 | 508 | 23 | 140 | 65 | 650 |
 
-## Code size
+## Distribution status
 
-Total: **298,071** lines of code across **12952** files in the top 5 languages.
+Reported by **8** distros on [repology.org](https://repology.org/project/rollup). **2** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
 
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| JavaScript | 238,029 | 4,120 | 23,953 | 12358 |
-| TypeScript | 35,340 | 1,324 | 2,935 | 372 |
-| Json | 18,771 | 0 | 0 | 85 |
-| Rust | 5,294 | 334 | 477 | 113 |
-| Html | 250 | 0 | 0 | 24 |
-
-## OpenSSF Scorecard
-
-Overall score: **5.2 / 10**
-
-Lowest-scoring checks:
-
-- **Code-Review** (3/10) — Found 4/11 approved changesets -- score normalized to 3
-- **Dangerous-Workflow** (0/10) — dangerous workflow patterns detected
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `4.63.1` | ✅ latest |
+| Alpine edge | `4.60.3` | ⚠️ outdated |
+| openSUSE Tumbleweed | `3.29.5` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -70,4 +83,4 @@ Install metadata for rollup lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:56:18Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T21:41:24Z._
