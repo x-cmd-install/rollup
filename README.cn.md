@@ -4,7 +4,7 @@
 
 Next-generation ES module bundler
 
-![rollup](https://repo.x-cmd.io/rollup.svg)
+![rollup](https://repo.x-cmd.io/rollup.svg?lang=zh)
 
 ## 安装
 
@@ -22,11 +22,10 @@ x install rollup
 
 - **最新版本**: `v4.63.1` (2026-08-28)
 - **最近提交**: 2026-09-07
-- **发布时间**: 2026-08-28T06:01:35Z
 
 ## 流行度
 
-- **Star**: 26,307 · **Fork**: 1,774 · **开放 issue**: 3,512 · **贡献者**: 454
+- **Star**: 26,306 · **Fork**: 1,774 · **开放 issue**: 3,512 · **贡献者**: 454
 
 ## 累计统计
 
@@ -71,4 +70,4 @@ rollup 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:52:44Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:56:19Z._
