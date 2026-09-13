@@ -42,27 +42,27 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v4.63.1` (2026-08-28)
-- **Last commit**: 2026-09-11
+- **Latest**: `v4.63.2` (2026-09-12)
+- **Last commit**: 2026-09-12
 
 ## Popularity
 
-- **Stars**: 26,307 · **Forks**: 1,775 · **Open issues**: 3,512 · **Contributors**: 455
+- **Stars**: 26,307 · **Forks**: 1,776 · **Open issues**: 3,512 · **Contributors**: 455
 
 ## Totals (cumulative)
 
-- **Releases**: 592 · **Merged PRs**: 2498 · **Open PRs**: 27 · **Closed issues**: 2931 · **Open issues**: 581 · **Commits**: 6365
+- **Releases**: 593 · **Merged PRs**: 2498 · **Open PRs**: 28 · **Closed issues**: 2931 · **Open issues**: 581 · **Commits**: 6366
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 3 | 21 | 7 | 3 | 1 | 26 |
-| last60d | 2026-07-13 | 5 | 43 | 11 | 6 | 1 | 54 |
-| 90d | 2026-06-13 | 8 | 64 | 13 | 6 | 2 | 79 |
-| last180d | 2026-03-15 | 15 | 140 | 17 | 13 | 4 | 167 |
-| 360d | 2025-09-16 | 38 | 265 | 19 | 43 | 16 | 321 |
-| last720d | 2024-09-21 | 100 | 509 | 22 | 140 | 65 | 644 |
+| 30d | 2026-08-14 | 4 | 16 | 8 | 3 | 1 | 27 |
+| last60d | 2026-07-15 | 6 | 43 | 12 | 6 | 1 | 55 |
+| 90d | 2026-06-15 | 8 | 64 | 14 | 6 | 2 | 80 |
+| last180d | 2026-03-17 | 16 | 140 | 18 | 13 | 4 | 168 |
+| 360d | 2025-09-18 | 39 | 262 | 20 | 43 | 16 | 322 |
+| last720d | 2024-09-23 | 100 | 509 | 23 | 139 | 65 | 640 |
 
 ## Distribution status
 
@@ -83,4 +83,4 @@ Install metadata for rollup lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T20:16:15Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T05:07:30Z._
