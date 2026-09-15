@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/rollup/rollup/releases/387479883",
-  "assets_url": "https://api.github.com/repos/rollup/rollup/releases/387479883/assets",
-  "upload_url": "https://uploads.github.com/repos/rollup/rollup/releases/387479883/assets{?name,label}",
-  "html_url": "https://github.com/rollup/rollup/releases/tag/v4.63.2",
-  "id": 387479883,
+  "url": "https://api.github.com/repos/rollup/rollup/releases/388390685",
+  "assets_url": "https://api.github.com/repos/rollup/rollup/releases/388390685/assets",
+  "upload_url": "https://uploads.github.com/repos/rollup/rollup/releases/388390685/assets{?name,label}",
+  "html_url": "https://github.com/rollup/rollup/releases/tag/v4.63.3",
+  "id": 388390685,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOAh_Tpc4XGHlL",
-  "tag_name": "v4.63.2",
+  "node_id": "RE_kwDOAh_Tpc4XJl8d",
+  "tag_name": "v4.63.3",
   "target_commitish": "master",
-  "name": "v4.63.2",
+  "name": "v4.63.3",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-09-12T06:14:26Z",
-  "updated_at": "2026-09-12T06:39:14Z",
-  "published_at": "2026-09-12T06:39:14Z",
+  "created_at": "2026-09-14T12:22:42Z",
+  "updated_at": "2026-09-14T12:47:02Z",
+  "published_at": "2026-09-14T12:47:02Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/rollup/rollup/tarball/v4.63.2",
-  "zipball_url": "https://api.github.com/repos/rollup/rollup/zipball/v4.63.2",
-  "body": "## 4.63.2\n\n_2026-09-12_\n\n### Bug Fixes\n\n- Fix a bug when filtering logs for nested properties via the CLI (#6511)\n\n### Pull Requests\n\n- [#6498](https://github.com/rollup/rollup/pull/6498): chore(deps): lock file maintenance (@renovate[bot])\n- [#6503](https://github.com/rollup/rollup/pull/6503): fix(deps): update minor/patch updates (@renovate[bot])\n- [#6504](https://github.com/rollup/rollup/pull/6504): chore(deps): update dependency eslint-plugin-unicorn to v74 (@renovate[bot])\n- [#6505](https://github.com/rollup/rollup/pull/6505): pin mocha to v11 (@renovate[bot], @lukastaegert)\n- [#6508](https://github.com/rollup/rollup/pull/6508): docs: fix AGENTS.md 'Generated files' rule to reference real paths (@Larslllllll, @lukastaegert)\n- [#6510](https://github.com/rollup/rollup/pull/6510): chore(deps): lock file maintenance (@renovate[bot])\n- [#6511](https://github.com/rollup/rollup/pull/6511): Fix nested log filters for primitive values (@jakezwang, @lukastaegert)\n- [#6512](https://github.com/rollup/rollup/pull/6512): chore(deps): update dtolnay/rust-toolchain digest to 6bed076 (@renovate[bot], @lukastaegert)\n- [#6513](https://github.com/rollup/rollup/pull/6513): fix(deps): update minor/patch updates (@renovate[bot], @lukastaegert)",
-  "mentions_count": 4
+  "tarball_url": "https://api.github.com/repos/rollup/rollup/tarball/v4.63.3",
+  "zipball_url": "https://api.github.com/repos/rollup/rollup/zipball/v4.63.3",
+  "body": "## 4.63.3\n\n_2026-09-14_\n\n### Bug Fixes\n\n- Make sure that the internal shims for basename and extname in the browser build fully match NodeJS (#6473)\n- Always report and recover from failures on invalidation in watch mode (#6506)\n- Respect windows line terminators when tree-shaking in situations where line-breaks need to be removed to prevent automatic semicolon insertion (#6514)\n\n### Pull Requests\n\n- [#6473](https://github.com/rollup/rollup/pull/6473): fix(browser): match node's basename and extname (@luantaraschi, @lukastaegert)\n- [#6506](https://github.com/rollup/rollup/pull/6506): fix(watch): await the rerun so listener failures surface as ERROR events (@yoominho91, @irontaek, @lukastaegert)\n- [#6514](https://github.com/rollup/rollup/pull/6514): Remove the whole CRLF pair when suppressing ASI (@NgoQuocViet2001)\n- [#6515](https://github.com/rollup/rollup/pull/6515): chore(deps): lock file maintenance (@renovate[bot])",
+  "mentions_count": 6
 }
