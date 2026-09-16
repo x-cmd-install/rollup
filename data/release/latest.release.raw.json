@@ -41,5 +41,17 @@
   "tarball_url": "https://api.github.com/repos/rollup/rollup/tarball/v4.63.3",
   "zipball_url": "https://api.github.com/repos/rollup/rollup/zipball/v4.63.3",
   "body": "## 4.63.3\n\n_2026-09-14_\n\n### Bug Fixes\n\n- Make sure that the internal shims for basename and extname in the browser build fully match NodeJS (#6473)\n- Always report and recover from failures on invalidation in watch mode (#6506)\n- Respect windows line terminators when tree-shaking in situations where line-breaks need to be removed to prevent automatic semicolon insertion (#6514)\n\n### Pull Requests\n\n- [#6473](https://github.com/rollup/rollup/pull/6473): fix(browser): match node's basename and extname (@luantaraschi, @lukastaegert)\n- [#6506](https://github.com/rollup/rollup/pull/6506): fix(watch): await the rerun so listener failures surface as ERROR events (@yoominho91, @irontaek, @lukastaegert)\n- [#6514](https://github.com/rollup/rollup/pull/6514): Remove the whole CRLF pair when suppressing ASI (@NgoQuocViet2001)\n- [#6515](https://github.com/rollup/rollup/pull/6515): chore(deps): lock file maintenance (@renovate[bot])",
+  "reactions": {
+    "url": "https://api.github.com/repos/rollup/rollup/releases/388390685/reactions",
+    "total_count": 1,
+    "+1": 1,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 0,
+    "confused": 0,
+    "heart": 0,
+    "rocket": 0,
+    "eyes": 0
+  },
   "mentions_count": 6
 }
