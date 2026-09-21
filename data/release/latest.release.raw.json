@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/rollup/rollup/releases/388390685",
-  "assets_url": "https://api.github.com/repos/rollup/rollup/releases/388390685/assets",
-  "upload_url": "https://uploads.github.com/repos/rollup/rollup/releases/388390685/assets{?name,label}",
-  "html_url": "https://github.com/rollup/rollup/releases/tag/v4.63.3",
-  "id": 388390685,
+  "url": "https://api.github.com/repos/rollup/rollup/releases/391942003",
+  "assets_url": "https://api.github.com/repos/rollup/rollup/releases/391942003/assets",
+  "upload_url": "https://uploads.github.com/repos/rollup/rollup/releases/391942003/assets{?name,label}",
+  "html_url": "https://github.com/rollup/rollup/releases/tag/v4.63.4",
+  "id": 391942003,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,33 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOAh_Tpc4XJl8d",
-  "tag_name": "v4.63.3",
+  "node_id": "RE_kwDOAh_Tpc4XXI9z",
+  "tag_name": "v4.63.4",
   "target_commitish": "master",
-  "name": "v4.63.3",
+  "name": "v4.63.4",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-09-14T12:22:42Z",
-  "updated_at": "2026-09-14T12:47:02Z",
-  "published_at": "2026-09-14T12:47:02Z",
+  "created_at": "2026-09-19T06:15:18Z",
+  "updated_at": "2026-09-19T06:38:02Z",
+  "published_at": "2026-09-19T06:38:02Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/rollup/rollup/tarball/v4.63.3",
-  "zipball_url": "https://api.github.com/repos/rollup/rollup/zipball/v4.63.3",
-  "body": "## 4.63.3\n\n_2026-09-14_\n\n### Bug Fixes\n\n- Make sure that the internal shims for basename and extname in the browser build fully match NodeJS (#6473)\n- Always report and recover from failures on invalidation in watch mode (#6506)\n- Respect windows line terminators when tree-shaking in situations where line-breaks need to be removed to prevent automatic semicolon insertion (#6514)\n\n### Pull Requests\n\n- [#6473](https://github.com/rollup/rollup/pull/6473): fix(browser): match node's basename and extname (@luantaraschi, @lukastaegert)\n- [#6506](https://github.com/rollup/rollup/pull/6506): fix(watch): await the rerun so listener failures surface as ERROR events (@yoominho91, @irontaek, @lukastaegert)\n- [#6514](https://github.com/rollup/rollup/pull/6514): Remove the whole CRLF pair when suppressing ASI (@NgoQuocViet2001)\n- [#6515](https://github.com/rollup/rollup/pull/6515): chore(deps): lock file maintenance (@renovate[bot])",
-  "reactions": {
-    "url": "https://api.github.com/repos/rollup/rollup/releases/388390685/reactions",
-    "total_count": 1,
-    "+1": 1,
-    "-1": 0,
-    "laugh": 0,
-    "hooray": 0,
-    "confused": 0,
-    "heart": 0,
-    "rocket": 0,
-    "eyes": 0
-  },
-  "mentions_count": 6
+  "tarball_url": "https://api.github.com/repos/rollup/rollup/tarball/v4.63.4",
+  "zipball_url": "https://api.github.com/repos/rollup/rollup/zipball/v4.63.4",
+  "body": "## 4.63.4\n\n_2026-09-19_\n\n### Bug Fixes\n\n- Ensure meta information of the cached module is exposed in `shouldTransformCachedModule` (#6442)\n- Do not create invalid code if import attribute values contain special characters (#6502)\n\n### Pull Requests\n\n- [#6429](https://github.com/rollup/rollup/pull/6429): ci: collect Rust coverage from JS tests in dedicated job (@lukastaegert)\n- [#6442](https://github.com/rollup/rollup/pull/6442): fix: expose cached module meta during cache checks (@ychampion, @lukastaegert)\n- [#6496](https://github.com/rollup/rollup/pull/6496): docs: name the parameter runHook actually takes (@darkdi, @lukastaegert)\n- [#6502](https://github.com/rollup/rollup/pull/6502): Escape quotes and backslashes in import attribute values (@dylanpulver, @lukastaegert)\n- [#6517](https://github.com/rollup/rollup/pull/6517): Improve agent instructions (@lukastaegert)\n- [#6518](https://github.com/rollup/rollup/pull/6518): fix(deps): update minor/patch updates (@renovate[bot])\n- [#6519](https://github.com/rollup/rollup/pull/6519): Request Copilot code review via workflow (@lukastaegert)",
+  "mentions_count": 5
 }
