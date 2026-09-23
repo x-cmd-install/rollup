@@ -4,7 +4,7 @@
 
 Next-generation ES module bundler
 
-[![x-cmd/install — rollup Code Quality Monitoring Repo Card](https://repo.x-cmd.io/rollup.svg)](https://x-cmd.com/install/rollup)
+[![x-cmd/install — rollup Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/rollup.svg)](https://x-cmd.com/install/rollup)
 
 ## Install
 
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v4.63.4` (2026-09-19)
-- **Last commit**: 2026-09-21
+- **Last commit**: 2026-09-22
 
 ## Popularity
 
-- **Stars**: 26,308 · **Forks**: 1,778 · **Open issues**: 3,512 · **Contributors**: 460
+- **Stars**: 26,308 · **Forks**: 1,781 · **Open issues**: 3,512 · **Contributors**: 461
 
 ## Totals (cumulative)
 
-- **Releases**: 595 · **Merged PRs**: 2510 · **Open PRs**: 24 · **Closed issues**: 2932 · **Open issues**: 580 · **Commits**: 6381
+- **Releases**: 595 · **Merged PRs**: 2512 · **Open PRs**: 26 · **Closed issues**: 2932 · **Open issues**: 580 · **Commits**: 6383
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 5 | 21 | 6 | 3 | 1 | 27 |
-| last60d | 2026-07-24 | 8 | 42 | 8 | 5 | 1 | 53 |
-| 90d | 2026-06-24 | 8 | 69 | 10 | 7 | 1 | 77 |
-| last180d | 2026-03-26 | 16 | 138 | 13 | 12 | 3 | 161 |
-| 360d | 2025-09-27 | 37 | 265 | 16 | 42 | 15 | 316 |
-| last720d | 2024-10-02 | 100 | 513 | 19 | 138 | 61 | 646 |
+| 30d | 2026-08-24 | 5 | 22 | 8 | 3 | 1 | 29 |
+| last60d | 2026-07-25 | 8 | 44 | 10 | 5 | 1 | 55 |
+| 90d | 2026-06-25 | 8 | 67 | 12 | 7 | 1 | 79 |
+| last180d | 2026-03-27 | 16 | 139 | 15 | 12 | 3 | 163 |
+| 360d | 2025-09-28 | 36 | 266 | 18 | 42 | 15 | 318 |
+| last720d | 2024-10-03 | 100 | 515 | 21 | 138 | 61 | 646 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for rollup lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:08:32Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:14:38Z._

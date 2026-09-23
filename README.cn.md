@@ -4,7 +4,7 @@
 
 Next-generation ES module bundler
 
-[![x-cmd/install — rollup Code Quality Monitoring Repo Card](https://repo.x-cmd.io/rollup.svg?lang=zh)](https://x-cmd.com/install/rollup)
+[![x-cmd/install — rollup Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/rollup.svg?lang=zh)](https://x-cmd.com/install/rollup)
 
 ## 安装
 
@@ -43,26 +43,26 @@ x install rollup
 ## 发布
 
 - **最新版本**: `v4.63.4` (2026-09-19)
-- **最近提交**: 2026-09-21
+- **最近提交**: 2026-09-22
 
 ## 流行度
 
-- **Star**: 26,308 · **Fork**: 1,778 · **开放 issue**: 3,512 · **贡献者**: 460
+- **Star**: 26,308 · **Fork**: 1,781 · **开放 issue**: 3,512 · **贡献者**: 461
 
 ## 累计统计
 
-- **发布数**: 595 · **已合并 PR**: 2510 · **开放 PR**: 24 · **已关闭 issue**: 2932 · **开放 issue**: 580 · **提交数**: 6381
+- **发布数**: 595 · **已合并 PR**: 2512 · **开放 PR**: 26 · **已关闭 issue**: 2932 · **开放 issue**: 580 · **提交数**: 6383
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 5 | 21 | 6 | 3 | 1 | 27 |
-| last60d | 2026-07-24 | 8 | 42 | 8 | 5 | 1 | 53 |
-| 90d | 2026-06-24 | 8 | 69 | 10 | 7 | 1 | 77 |
-| last180d | 2026-03-26 | 16 | 138 | 13 | 12 | 3 | 161 |
-| 360d | 2025-09-27 | 37 | 265 | 16 | 42 | 15 | 316 |
-| last720d | 2024-10-02 | 100 | 513 | 19 | 138 | 61 | 646 |
+| 30d | 2026-08-24 | 5 | 22 | 8 | 3 | 1 | 29 |
+| last60d | 2026-07-25 | 8 | 44 | 10 | 5 | 1 | 55 |
+| 90d | 2026-06-25 | 8 | 67 | 12 | 7 | 1 | 79 |
+| last180d | 2026-03-27 | 16 | 139 | 15 | 12 | 3 | 163 |
+| 360d | 2025-09-28 | 36 | 266 | 18 | 42 | 15 | 318 |
+| last720d | 2024-10-03 | 100 | 515 | 21 | 138 | 61 | 646 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ rollup 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:08:33Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:14:39Z._
