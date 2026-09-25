@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/rollup/rollup/releases/391942003",
-  "assets_url": "https://api.github.com/repos/rollup/rollup/releases/391942003/assets",
-  "upload_url": "https://uploads.github.com/repos/rollup/rollup/releases/391942003/assets{?name,label}",
-  "html_url": "https://github.com/rollup/rollup/releases/tag/v4.63.4",
-  "id": 391942003,
+  "url": "https://api.github.com/repos/rollup/rollup/releases/395553216",
+  "assets_url": "https://api.github.com/repos/rollup/rollup/releases/395553216/assets",
+  "upload_url": "https://uploads.github.com/repos/rollup/rollup/releases/395553216/assets{?name,label}",
+  "html_url": "https://github.com/rollup/rollup/releases/tag/v4.63.5",
+  "id": 395553216,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOAh_Tpc4XXI9z",
-  "tag_name": "v4.63.4",
+  "node_id": "RE_kwDOAh_Tpc4Xk6nA",
+  "tag_name": "v4.63.5",
   "target_commitish": "master",
-  "name": "v4.63.4",
+  "name": "v4.63.5",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-09-19T06:15:18Z",
-  "updated_at": "2026-09-19T06:38:02Z",
-  "published_at": "2026-09-19T06:38:02Z",
+  "created_at": "2026-09-24T09:48:55Z",
+  "updated_at": "2026-09-24T10:09:48Z",
+  "published_at": "2026-09-24T10:09:48Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/rollup/rollup/tarball/v4.63.4",
-  "zipball_url": "https://api.github.com/repos/rollup/rollup/zipball/v4.63.4",
-  "body": "## 4.63.4\n\n_2026-09-19_\n\n### Bug Fixes\n\n- Ensure meta information of the cached module is exposed in `shouldTransformCachedModule` (#6442)\n- Do not create invalid code if import attribute values contain special characters (#6502)\n\n### Pull Requests\n\n- [#6429](https://github.com/rollup/rollup/pull/6429): ci: collect Rust coverage from JS tests in dedicated job (@lukastaegert)\n- [#6442](https://github.com/rollup/rollup/pull/6442): fix: expose cached module meta during cache checks (@ychampion, @lukastaegert)\n- [#6496](https://github.com/rollup/rollup/pull/6496): docs: name the parameter runHook actually takes (@darkdi, @lukastaegert)\n- [#6502](https://github.com/rollup/rollup/pull/6502): Escape quotes and backslashes in import attribute values (@dylanpulver, @lukastaegert)\n- [#6517](https://github.com/rollup/rollup/pull/6517): Improve agent instructions (@lukastaegert)\n- [#6518](https://github.com/rollup/rollup/pull/6518): fix(deps): update minor/patch updates (@renovate[bot])\n- [#6519](https://github.com/rollup/rollup/pull/6519): Request Copilot code review via workflow (@lukastaegert)",
-  "mentions_count": 5
+  "tarball_url": "https://api.github.com/repos/rollup/rollup/tarball/v4.63.5",
+  "zipball_url": "https://api.github.com/repos/rollup/rollup/zipball/v4.63.5",
+  "body": "## 4.63.5\n\n_2026-09-24_\n\n### Bug Fixes\n\n- Fix an issue where watch mode would hang instead of terminating when closing via Ctrl+C (#6521)\n- Avoid starting overlapping watch mode runs when plugins invalidate files at the wrong time (#6526)\n- Fix many edge cases where watch mode events were not properly emitted to listeners, especially when errors occur (#6526)\n\n### Pull Requests\n\n- [#6520](https://github.com/rollup/rollup/pull/6520): Lock file maintenance (@renovate[bot], @lukastaegert)\n- [#6521](https://github.com/rollup/rollup/pull/6521): Terminate watch mode via natural process exit when possible (@lukastaegert)\n- [#6523](https://github.com/rollup/rollup/pull/6523): Protect cc pin against renovate lock file maintenance (@lukastaegert)\n- [#6525](https://github.com/rollup/rollup/pull/6525): docs: fix typos 'interations' and 'coresponding' (@haimingZZ)\n- [#6526](https://github.com/rollup/rollup/pull/6526): fix(watch): prevent overlapping runs and other run lifecycle bugs (@lukastaegert)",
+  "mentions_count": 3
 }
