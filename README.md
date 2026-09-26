@@ -14,13 +14,13 @@ x install rollup
 
 ## Code insight
 
-Total: **300,536** lines of code across **12974** files in the top 5 languages.
+Total: **300,392** lines of code across **12974** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | JavaScript | 240,317 | 4,248 | 24,017 | 12380 |
 | TypeScript | 35,417 | 1,350 | 2,937 | 372 |
-| Json | 18,836 | 0 | 0 | 85 |
+| Json | 18,692 | 0 | 0 | 85 |
 | Rust | 5,308 | 335 | 478 | 113 |
 | Html | 250 | 0 | 0 | 24 |
 
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v4.63.5` (2026-09-24)
-- **Last commit**: 2026-09-24
+- **Last commit**: 2026-09-25
 
 ## Popularity
 
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 596 · **Merged PRs**: 2514 · **Open PRs**: 28 · **Closed issues**: 2932 · **Open issues**: 580 · **Commits**: 6386
+- **Releases**: 596 · **Merged PRs**: 2518 · **Open PRs**: 25 · **Closed issues**: 2932 · **Open issues**: 580 · **Commits**: 6389
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-26 | 5 | 24 | 10 | 2 | 1 | 32 |
-| last60d | 2026-07-27 | 8 | 45 | 12 | 5 | 1 | 58 |
-| 90d | 2026-06-27 | 9 | 68 | 14 | 7 | 1 | 82 |
-| last180d | 2026-03-29 | 17 | 141 | 17 | 12 | 3 | 166 |
-| 360d | 2025-09-30 | 37 | 268 | 20 | 42 | 15 | 321 |
-| last720d | 2024-10-05 | 100 | 516 | 23 | 138 | 61 | 648 |
+| 30d | 2026-08-27 | 5 | 27 | 7 | 1 | 1 | 35 |
+| last60d | 2026-07-28 | 8 | 49 | 9 | 4 | 1 | 61 |
+| 90d | 2026-06-28 | 9 | 71 | 11 | 7 | 1 | 85 |
+| last180d | 2026-03-30 | 17 | 144 | 14 | 12 | 3 | 169 |
+| 360d | 2025-10-01 | 37 | 272 | 17 | 40 | 15 | 324 |
+| last720d | 2024-10-06 | 100 | 520 | 20 | 138 | 61 | 651 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for rollup lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260925.yml` · 2026-09-25T05:10:08Z._
+_Snapshot: `data/card/260926.yml` · 2026-09-26T05:12:10Z._
