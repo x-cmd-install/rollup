@@ -41,5 +41,17 @@
   "tarball_url": "https://api.github.com/repos/rollup/rollup/tarball/v4.63.5",
   "zipball_url": "https://api.github.com/repos/rollup/rollup/zipball/v4.63.5",
   "body": "## 4.63.5\n\n_2026-09-24_\n\n### Bug Fixes\n\n- Fix an issue where watch mode would hang instead of terminating when closing via Ctrl+C (#6521)\n- Avoid starting overlapping watch mode runs when plugins invalidate files at the wrong time (#6526)\n- Fix many edge cases where watch mode events were not properly emitted to listeners, especially when errors occur (#6526)\n\n### Pull Requests\n\n- [#6520](https://github.com/rollup/rollup/pull/6520): Lock file maintenance (@renovate[bot], @lukastaegert)\n- [#6521](https://github.com/rollup/rollup/pull/6521): Terminate watch mode via natural process exit when possible (@lukastaegert)\n- [#6523](https://github.com/rollup/rollup/pull/6523): Protect cc pin against renovate lock file maintenance (@lukastaegert)\n- [#6525](https://github.com/rollup/rollup/pull/6525): docs: fix typos 'interations' and 'coresponding' (@haimingZZ)\n- [#6526](https://github.com/rollup/rollup/pull/6526): fix(watch): prevent overlapping runs and other run lifecycle bugs (@lukastaegert)",
+  "reactions": {
+    "url": "https://api.github.com/repos/rollup/rollup/releases/395553216/reactions",
+    "total_count": 1,
+    "+1": 0,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 1,
+    "confused": 0,
+    "heart": 0,
+    "rocket": 0,
+    "eyes": 0
+  },
   "mentions_count": 3
 }
