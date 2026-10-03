@@ -14,12 +14,12 @@ x install rollup
 
 ## Code insight
 
-Total: **300,579** lines of code across **12980** files in the top 5 languages.
+Total: **301,393** lines of code across **13007** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| JavaScript | 240,361 | 4,251 | 24,026 | 12386 |
-| TypeScript | 35,428 | 1,350 | 2,937 | 372 |
+| JavaScript | 240,973 | 4,285 | 24,099 | 12413 |
+| TypeScript | 35,630 | 1,365 | 2,946 | 372 |
 | Json | 18,822 | 0 | 0 | 85 |
 | Rust | 5,308 | 335 | 478 | 113 |
 | Html | 250 | 0 | 0 | 24 |
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v4.63.6` (2026-10-01)
+- **Latest**: `v4.64.0` (2026-10-02)
 - **Last commit**: 2026-10-02
 
 ## Popularity
 
-- **Stars**: 26,307 · **Forks**: 1,786 · **Open issues**: 3,514 · **Contributors**: 462
+- **Stars**: 26,306 · **Forks**: 1,786 · **Open issues**: 3,514 · **Contributors**: 462
 
 ## Totals (cumulative)
 
-- **Releases**: 597 · **Merged PRs**: 2526 · **Open PRs**: 28 · **Closed issues**: 2933 · **Open issues**: 581 · **Commits**: 6397
+- **Releases**: 598 · **Merged PRs**: 2529 · **Open PRs**: 26 · **Closed issues**: 2934 · **Open issues**: 580 · **Commits**: 6399
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-02 | 5 | 32 | 8 | 1 | 1 | 40 |
-| last60d | 2026-08-03 | 8 | 52 | 12 | 5 | 2 | 62 |
-| 90d | 2026-07-04 | 10 | 73 | 14 | 8 | 2 | 93 |
-| last180d | 2026-04-05 | 17 | 147 | 17 | 13 | 4 | 172 |
-| 360d | 2025-10-07 | 37 | 277 | 20 | 41 | 16 | 328 |
-| last720d | 2024-10-12 | 100 | 525 | 23 | 139 | 62 | 659 |
+| 30d | 2026-09-03 | 6 | 34 | 6 | 2 | 0 | 42 |
+| last60d | 2026-08-04 | 9 | 55 | 10 | 6 | 1 | 64 |
+| 90d | 2026-07-05 | 11 | 76 | 12 | 9 | 1 | 95 |
+| last180d | 2026-04-06 | 18 | 150 | 15 | 14 | 3 | 174 |
+| 360d | 2025-10-08 | 38 | 280 | 18 | 42 | 15 | 330 |
+| last720d | 2024-10-13 | 100 | 528 | 21 | 140 | 60 | 658 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for rollup lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261002.yml` · 2026-10-02T05:48:36Z._
+_Snapshot: `data/card/261003.yml` · 2026-10-03T05:34:22Z._
