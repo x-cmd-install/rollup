@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/rollup/rollup/releases/400713380",
-  "assets_url": "https://api.github.com/repos/rollup/rollup/releases/400713380/assets",
-  "upload_url": "https://uploads.github.com/repos/rollup/rollup/releases/400713380/assets{?name,label}",
-  "html_url": "https://github.com/rollup/rollup/releases/tag/v4.63.6",
-  "id": 400713380,
+  "url": "https://api.github.com/repos/rollup/rollup/releases/401945626",
+  "assets_url": "https://api.github.com/repos/rollup/rollup/releases/401945626/assets",
+  "upload_url": "https://uploads.github.com/repos/rollup/rollup/releases/401945626/assets{?name,label}",
+  "html_url": "https://github.com/rollup/rollup/releases/tag/v4.64.0",
+  "id": 401945626,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,33 +25,33 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOAh_Tpc4X4mak",
-  "tag_name": "v4.63.6",
+  "node_id": "RE_kwDOAh_Tpc4X9TQa",
+  "tag_name": "v4.64.0",
   "target_commitish": "master",
-  "name": "v4.63.6",
+  "name": "v4.64.0",
   "draft": false,
   "immutable": true,
   "prerelease": false,
-  "created_at": "2026-10-01T06:19:22Z",
-  "updated_at": "2026-10-01T06:53:07Z",
-  "published_at": "2026-10-01T06:53:07Z",
+  "created_at": "2026-10-02T15:18:42Z",
+  "updated_at": "2026-10-02T15:41:02Z",
+  "published_at": "2026-10-02T15:41:02Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/rollup/rollup/tarball/v4.63.6",
-  "zipball_url": "https://api.github.com/repos/rollup/rollup/zipball/v4.63.6",
-  "body": "## 4.63.6\n\n_2026-10-01_\n\n### Bug Fixes\n\n- Ensure external reexports are always imported when used in a reified dynamic namespace (#6540)\n\n### Pull Requests\n\n- [#6527](https://github.com/rollup/rollup/pull/6527): Update minor/patch updates (@renovate[bot])\n- [#6529](https://github.com/rollup/rollup/pull/6529): Update dependency eslint-plugin-unicorn to v76 (@renovate[bot])\n- [#6530](https://github.com/rollup/rollup/pull/6530): Lock file maintenance (@renovate[bot])\n- [#6535](https://github.com/rollup/rollup/pull/6535): Lock file maintenance (@renovate[bot], @lukastaegert)\n- [#6540](https://github.com/rollup/rollup/pull/6540): Import external re-exports used by shared-chunk namespace objects (@00200200)",
+  "tarball_url": "https://api.github.com/repos/rollup/rollup/tarball/v4.64.0",
+  "zipball_url": "https://api.github.com/repos/rollup/rollup/zipball/v4.64.0",
+  "body": "## 4.64.0\n\n_2026-10-02_\n\n### Features\n\n- Improve try-catch deoptimization to cover calling methods on objects (#6541)\n\n### Bug Fixes\n\n- Fix a situation where some feature-detections of core-js were not triggering properly (#6541)\n\n### Pull Requests\n\n- [#6541](https://github.com/rollup/rollup/pull/6541): Retain callbacks of helper methods called from try statements (@lukastaegert)\n- [#6542](https://github.com/rollup/rollup/pull/6542): Run additional tests as part of the coverage job (@lukastaegert)\n- [#6544](https://github.com/rollup/rollup/pull/6544): Update msys2/setup-msys2 digest to ec48f7c (@renovate[bot], @lukastaegert)\n- [#6545](https://github.com/rollup/rollup/pull/6545): Update minor/patch updates (@renovate[bot])\n- [#6546](https://github.com/rollup/rollup/pull/6546): Update dependency @mermaid-js/mermaid-cli to v12 (@renovate[bot])\n- [#6547](https://github.com/rollup/rollup/pull/6547): Update Rust crate swc_compiler_base to v65 (@renovate[bot])",
   "reactions": {
-    "url": "https://api.github.com/repos/rollup/rollup/releases/400713380/reactions",
+    "url": "https://api.github.com/repos/rollup/rollup/releases/401945626/reactions",
     "total_count": 1,
-    "+1": 1,
+    "+1": 0,
     "-1": 0,
     "laugh": 0,
-    "hooray": 0,
+    "hooray": 1,
     "confused": 0,
     "heart": 0,
     "rocket": 0,
     "eyes": 0
   },
-  "mentions_count": 3
+  "mentions_count": 2
 }
