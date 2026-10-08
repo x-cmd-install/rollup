@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/rollup/rollup/releases/405419188",
-  "assets_url": "https://api.github.com/repos/rollup/rollup/releases/405419188/assets",
-  "upload_url": "https://uploads.github.com/repos/rollup/rollup/releases/405419188/assets{?name,label}",
-  "html_url": "https://github.com/rollup/rollup/releases/tag/v4.64.1",
-  "id": 405419188,
+  "url": "https://api.github.com/repos/rollup/rollup/releases/406009004",
+  "assets_url": "https://api.github.com/repos/rollup/rollup/releases/406009004/assets",
+  "upload_url": "https://uploads.github.com/repos/rollup/rollup/releases/406009004/assets{?name,label}",
+  "html_url": "https://github.com/rollup/rollup/releases/tag/v4.64.2",
+  "id": 406009004,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOAh_Tpc4YKjS0",
-  "tag_name": "v4.64.1",
+  "node_id": "RE_kwDOAh_Tpc4YMzSs",
+  "tag_name": "v4.64.2",
   "target_commitish": "master",
-  "name": "v4.64.1",
+  "name": "v4.64.2",
   "draft": false,
   "immutable": true,
   "prerelease": false,
-  "created_at": "2026-10-07T05:14:18Z",
-  "updated_at": "2026-10-07T05:43:11Z",
-  "published_at": "2026-10-07T05:43:11Z",
+  "created_at": "2026-10-07T16:46:06Z",
+  "updated_at": "2026-10-07T17:41:17Z",
+  "published_at": "2026-10-07T17:41:17Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/rollup/rollup/tarball/v4.64.1",
-  "zipball_url": "https://api.github.com/repos/rollup/rollup/zipball/v4.64.1",
-  "body": "## 4.64.1\n\n_2026-10-07_\n\n### Bug Fixes\n\n- Slightly improve performance when rendering ES output (#6534)\n\n### Pull Requests\n\n- [#6534](https://github.com/rollup/rollup/pull/6534): Avoid repeated export name scans when rendering ES chunks (@irontaek, @lukastaegert)\n- [#6552](https://github.com/rollup/rollup/pull/6552): chore(ci): remove redundant rust-src setup (@TrickyPi, @lukastaegert)\n- [#6555](https://github.com/rollup/rollup/pull/6555): Lock file maintenance (@renovate[bot], @lukastaegert)",
-  "mentions_count": 4
+  "tarball_url": "https://api.github.com/repos/rollup/rollup/tarball/v4.64.2",
+  "zipball_url": "https://api.github.com/repos/rollup/rollup/zipball/v4.64.2",
+  "body": "## 4.64.2\n\n_2026-10-07_\n\n### Bug Fixes\n\n- Fix a regression where certain CoreJS helpers were wrongly tree-shaken (#6562)\n- Do not show errors from closeBundle if there were also build errors (#6554)\n\n### Pull Requests\n\n- [#6554](https://github.com/rollup/rollup/pull/6554): Preserve build errors when closeBundle fails (@Jo2234, @lukastaegert)\n- [#6561](https://github.com/rollup/rollup/pull/6561): Rework REPL artefacts and performance report workflows (@lukastaegert)\n- [#6562](https://github.com/rollup/rollup/pull/6562): Do not resolve values of assigned variables returned on all paths (@lukastaegert)",
+  "mentions_count": 2
 }
