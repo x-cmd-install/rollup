@@ -272,4 +272,3 @@ checks:
     details:
       - 'Info: Project packages its releases by way of GitHub Actions.: .github/workflows/build-and-tests.yml:616'
 ---
-{"id":408957829,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOAh_Tpc4YYDOF","tag_name":"v4.64.5","target_commitish":"master","name":"v4.64.5","draft":false,"immutable":true,"prerelease":false,"created_at":"2026-10-10T12:42:59Z","updated_at":"2026-10-10T13:05:03Z","published_at":"2026-10-10T13:05:03Z","assets":[],"body":"## 4.64.5\n\n_2026-10-10_\n\n### Bug Fixes\n\n- Prevent cycles when using indirect top-level await for dynamic imports (#6516)\n\n### Pull Requests\n\n- [#6516](https://github.com/rollup/rollup/pull/6516): fix: prevent cycles for indirectly awaited dynamic imports (@ryanchou1994, @lukastaegert)","mentions_count":2}

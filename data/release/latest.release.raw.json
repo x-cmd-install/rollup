@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/rollup/rollup/releases/407128182",
-  "assets_url": "https://api.github.com/repos/rollup/rollup/releases/407128182/assets",
-  "upload_url": "https://uploads.github.com/repos/rollup/rollup/releases/407128182/assets{?name,label}",
-  "html_url": "https://github.com/rollup/rollup/releases/tag/v4.64.3",
-  "id": 407128182,
+  "url": "https://api.github.com/repos/rollup/rollup/releases/408957829",
+  "assets_url": "https://api.github.com/repos/rollup/rollup/releases/408957829/assets",
+  "upload_url": "https://uploads.github.com/repos/rollup/rollup/releases/408957829/assets{?name,label}",
+  "html_url": "https://github.com/rollup/rollup/releases/tag/v4.64.5",
+  "id": 408957829,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOAh_Tpc4YREh2",
-  "tag_name": "v4.64.3",
+  "node_id": "RE_kwDOAh_Tpc4YYDOF",
+  "tag_name": "v4.64.5",
   "target_commitish": "master",
-  "name": "v4.64.3",
+  "name": "v4.64.5",
   "draft": false,
   "immutable": true,
   "prerelease": false,
-  "created_at": "2026-10-08T17:50:59Z",
-  "updated_at": "2026-10-08T18:11:54Z",
-  "published_at": "2026-10-08T18:11:54Z",
+  "created_at": "2026-10-10T12:42:59Z",
+  "updated_at": "2026-10-10T13:05:03Z",
+  "published_at": "2026-10-10T13:05:03Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/rollup/rollup/tarball/v4.64.3",
-  "zipball_url": "https://api.github.com/repos/rollup/rollup/zipball/v4.64.3",
-  "body": "## 4.64.3\n\n_2026-10-08_\n\n### Bug Fixes\n\n- Fix a performance regression when bundling code with deeply nested property calls (#6565)\n\n### Pull Requests\n\n- [#6565](https://github.com/rollup/rollup/pull/6565): Fix path-dependent explosion when including call arguments of reassigned variables (@lukastaegert)",
-  "mentions_count": 1
+  "tarball_url": "https://api.github.com/repos/rollup/rollup/tarball/v4.64.5",
+  "zipball_url": "https://api.github.com/repos/rollup/rollup/zipball/v4.64.5",
+  "body": "## 4.64.5\n\n_2026-10-10_\n\n### Bug Fixes\n\n- Prevent cycles when using indirect top-level await for dynamic imports (#6516)\n\n### Pull Requests\n\n- [#6516](https://github.com/rollup/rollup/pull/6516): fix: prevent cycles for indirectly awaited dynamic imports (@ryanchou1994, @lukastaegert)",
+  "mentions_count": 2
 }
