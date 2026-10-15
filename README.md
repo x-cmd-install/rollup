@@ -14,25 +14,25 @@ x install rollup
 
 ## Code insight
 
-Total: **302,670** lines of code across **13082** files in the top 5 languages.
+Total: **302,782** lines of code across **13083** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| JavaScript | 242,002 | 4,311 | 24,252 | 12486 |
-| TypeScript | 35,791 | 1,392 | 2,965 | 374 |
-| Json | 18,840 | 0 | 0 | 85 |
+| JavaScript | 242,061 | 4,327 | 24,255 | 12486 |
+| TypeScript | 35,822 | 1,398 | 2,970 | 375 |
+| Json | 18,862 | 0 | 0 | 85 |
 | Rust | 5,377 | 340 | 481 | 113 |
 | Html | 250 | 0 | 0 | 24 |
 
 ## OpenSSF Scorecard
 
-Overall score: **5.1 / 10**
+Overall score: **6.5 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (3/10) — Found 6/19 approved changesets -- score normalized to 3
+- **Code-Review** (3/10) — Found 7/23 approved changesets -- score normalized to 3
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Dangerous-Workflow** (0/10) — dangerous workflow patterns detected
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## Source
 
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v4.64.6` (2026-10-13)
-- **Last commit**: 2026-10-13
+- **Last commit**: 2026-10-15
 
 ## Popularity
 
-- **Stars**: 26,302 · **Forks**: 1,786 · **Open issues**: 3,519 · **Contributors**: 466
+- **Stars**: 26,299 · **Forks**: 1,786 · **Open issues**: 3,519 · **Contributors**: 466
 
 ## Totals (cumulative)
 
-- **Releases**: 604 · **Merged PRs**: 2550 · **Open PRs**: 25 · **Closed issues**: 2939 · **Open issues**: 580 · **Commits**: 6424
+- **Releases**: 604 · **Merged PRs**: 2551 · **Open PRs**: 25 · **Closed issues**: 2940 · **Open issues**: 579 · **Commits**: 6426
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 11 | 44 | 4 | 4 | 2 | 49 |
-| last60d | 2026-08-15 | 15 | 65 | 8 | 7 | 3 | 80 |
-| 90d | 2026-07-16 | 17 | 93 | 11 | 9 | 3 | 107 |
-| last180d | 2026-04-17 | 24 | 158 | 14 | 16 | 5 | 185 |
-| 360d | 2025-10-19 | 43 | 294 | 17 | 44 | 17 | 347 |
-| last720d | 2024-10-24 | 100 | 545 | 20 | 143 | 58 | 682 |
+| 30d | 2026-09-15 | 10 | 44 | 4 | 5 | 1 | 51 |
+| last60d | 2026-08-16 | 15 | 66 | 8 | 8 | 2 | 82 |
+| 90d | 2026-07-17 | 17 | 94 | 11 | 10 | 2 | 109 |
+| last180d | 2026-04-18 | 24 | 159 | 14 | 17 | 4 | 187 |
+| 360d | 2025-10-20 | 43 | 294 | 16 | 45 | 15 | 349 |
+| last720d | 2024-10-25 | 100 | 545 | 20 | 143 | 57 | 684 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for rollup lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261014.yml` · 2026-10-14T05:10:44Z._
+_Snapshot: `data/card/261015.yml` · 2026-10-15T04:48:53Z._
