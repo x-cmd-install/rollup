@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/rollup/rollup/releases/411484379",
-  "assets_url": "https://api.github.com/repos/rollup/rollup/releases/411484379/assets",
-  "upload_url": "https://uploads.github.com/repos/rollup/rollup/releases/411484379/assets{?name,label}",
-  "html_url": "https://github.com/rollup/rollup/releases/tag/v4.64.6",
-  "id": 411484379,
+  "url": "https://api.github.com/repos/rollup/rollup/releases/413457364",
+  "assets_url": "https://api.github.com/repos/rollup/rollup/releases/413457364/assets",
+  "upload_url": "https://uploads.github.com/repos/rollup/rollup/releases/413457364/assets{?name,label}",
+  "html_url": "https://github.com/rollup/rollup/releases/tag/v4.64.7",
+  "id": 413457364,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOAh_Tpc4YhsDb",
-  "tag_name": "v4.64.6",
+  "node_id": "RE_kwDOAh_Tpc4YpNvU",
+  "tag_name": "v4.64.7",
   "target_commitish": "master",
-  "name": "v4.64.6",
+  "name": "v4.64.7",
   "draft": false,
   "immutable": true,
   "prerelease": false,
-  "created_at": "2026-10-13T08:39:45Z",
-  "updated_at": "2026-10-13T09:04:50Z",
-  "published_at": "2026-10-13T09:04:50Z",
+  "created_at": "2026-10-15T04:21:12Z",
+  "updated_at": "2026-10-15T05:44:27Z",
+  "published_at": "2026-10-15T05:44:27Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/rollup/rollup/tarball/v4.64.6",
-  "zipball_url": "https://api.github.com/repos/rollup/rollup/zipball/v4.64.6",
-  "body": "## 4.64.6\n\n_2026-10-13_\n\n### Bug Fixes\n\n- Do not tree-shake side effects in class instance fields (#6551)\n- Extend top-level-await detection to handle asynchronous for...of loops and async disposal (#6563)\n\n### Pull Requests\n\n- [#6551](https://github.com/rollup/rollup/pull/6551): Retain instance field initializers with side effects when instantiating a class (@SulimanAbdulrazzaq, @lukastaegert)\n- [#6563](https://github.com/rollup/rollup/pull/6563): Recognize top-level asynchronous loops and disposal (@TrickyPi)\n- [#6570](https://github.com/rollup/rollup/pull/6570): Lock file maintenance (@renovate[bot])\n- [#6571](https://github.com/rollup/rollup/pull/6571): Align lock file maintenance with other updates (@lukastaegert)\n- [#6573](https://github.com/rollup/rollup/pull/6573): Make addWatchFile watch test robust against watcher start-up timing (@lukastaegert)",
-  "mentions_count": 4
+  "tarball_url": "https://api.github.com/repos/rollup/rollup/tarball/v4.64.7",
+  "zipball_url": "https://api.github.com/repos/rollup/rollup/zipball/v4.64.7",
+  "body": "## 4.64.7\n\n_2026-10-15_\n\n### Bug Fixes\n\n- Fix an issue where watching not-yet-created files from plugins did not work if several shared a directory (#6575)\n\n### Pull Requests\n\n- [#6575](https://github.com/rollup/rollup/pull/6575): Report creation of missing watch files sharing a directory on Linux (@lukastaegert)",
+  "mentions_count": 1
 }
