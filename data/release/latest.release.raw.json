@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/rollup/rollup/releases/413457364",
-  "assets_url": "https://api.github.com/repos/rollup/rollup/releases/413457364/assets",
-  "upload_url": "https://uploads.github.com/repos/rollup/rollup/releases/413457364/assets{?name,label}",
-  "html_url": "https://github.com/rollup/rollup/releases/tag/v4.64.7",
-  "id": 413457364,
+  "url": "https://api.github.com/repos/rollup/rollup/releases/415990505",
+  "assets_url": "https://api.github.com/repos/rollup/rollup/releases/415990505/assets",
+  "upload_url": "https://uploads.github.com/repos/rollup/rollup/releases/415990505/assets{?name,label}",
+  "html_url": "https://github.com/rollup/rollup/releases/tag/v4.64.9",
+  "id": 415990505,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOAh_Tpc4YpNvU",
-  "tag_name": "v4.64.7",
+  "node_id": "RE_kwDOAh_Tpc4Yy4Lp",
+  "tag_name": "v4.64.9",
   "target_commitish": "master",
-  "name": "v4.64.7",
+  "name": "v4.64.9",
   "draft": false,
   "immutable": true,
   "prerelease": false,
-  "created_at": "2026-10-15T04:21:12Z",
-  "updated_at": "2026-10-15T05:44:27Z",
-  "published_at": "2026-10-15T05:44:27Z",
+  "created_at": "2026-10-17T18:07:10Z",
+  "updated_at": "2026-10-17T18:33:13Z",
+  "published_at": "2026-10-17T18:33:13Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/rollup/rollup/tarball/v4.64.7",
-  "zipball_url": "https://api.github.com/repos/rollup/rollup/zipball/v4.64.7",
-  "body": "## 4.64.7\n\n_2026-10-15_\n\n### Bug Fixes\n\n- Fix an issue where watching not-yet-created files from plugins did not work if several shared a directory (#6575)\n\n### Pull Requests\n\n- [#6575](https://github.com/rollup/rollup/pull/6575): Report creation of missing watch files sharing a directory on Linux (@lukastaegert)",
-  "mentions_count": 1
+  "tarball_url": "https://api.github.com/repos/rollup/rollup/tarball/v4.64.9",
+  "zipball_url": "https://api.github.com/repos/rollup/rollup/zipball/v4.64.9",
+  "body": "## 4.64.9\n\n_2026-10-17_\n\n### Bug Fixes\n\n- Ensure export live-bindings are properly maintained for aliased exports (#6576)\n- Retain typed array constructor calls if the argument has iteration side effects (#6582)\n\n### Pull Requests\n\n- [#6576](https://github.com/rollup/rollup/pull/6576): Fix live bindings for aliased reassigned exports (@oxura, @lukastaegert)\n- [#6582](https://github.com/rollup/rollup/pull/6582): Retain typed array constructors that iterate their argument (@joshuablac, @lukastaegert)",
+  "mentions_count": 3
 }
