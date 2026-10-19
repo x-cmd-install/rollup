@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/rollup/rollup/releases/415990505",
-  "assets_url": "https://api.github.com/repos/rollup/rollup/releases/415990505/assets",
-  "upload_url": "https://uploads.github.com/repos/rollup/rollup/releases/415990505/assets{?name,label}",
-  "html_url": "https://github.com/rollup/rollup/releases/tag/v4.64.9",
-  "id": 415990505,
+  "url": "https://api.github.com/repos/rollup/rollup/releases/416506399",
+  "assets_url": "https://api.github.com/repos/rollup/rollup/releases/416506399/assets",
+  "upload_url": "https://uploads.github.com/repos/rollup/rollup/releases/416506399/assets{?name,label}",
+  "html_url": "https://github.com/rollup/rollup/releases/tag/v4.64.10",
+  "id": 416506399,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOAh_Tpc4Yy4Lp",
-  "tag_name": "v4.64.9",
+  "node_id": "RE_kwDOAh_Tpc4Y02If",
+  "tag_name": "v4.64.10",
   "target_commitish": "master",
-  "name": "v4.64.9",
+  "name": "v4.64.10",
   "draft": false,
   "immutable": true,
   "prerelease": false,
-  "created_at": "2026-10-17T18:07:10Z",
-  "updated_at": "2026-10-17T18:33:13Z",
-  "published_at": "2026-10-17T18:33:13Z",
+  "created_at": "2026-10-18T13:25:59Z",
+  "updated_at": "2026-10-18T14:47:59Z",
+  "published_at": "2026-10-18T14:47:59Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/rollup/rollup/tarball/v4.64.9",
-  "zipball_url": "https://api.github.com/repos/rollup/rollup/zipball/v4.64.9",
-  "body": "## 4.64.9\n\n_2026-10-17_\n\n### Bug Fixes\n\n- Ensure export live-bindings are properly maintained for aliased exports (#6576)\n- Retain typed array constructor calls if the argument has iteration side effects (#6582)\n\n### Pull Requests\n\n- [#6576](https://github.com/rollup/rollup/pull/6576): Fix live bindings for aliased reassigned exports (@oxura, @lukastaegert)\n- [#6582](https://github.com/rollup/rollup/pull/6582): Retain typed array constructors that iterate their argument (@joshuablac, @lukastaegert)",
+  "tarball_url": "https://api.github.com/repos/rollup/rollup/tarball/v4.64.10",
+  "zipball_url": "https://api.github.com/repos/rollup/rollup/zipball/v4.64.10",
+  "body": "## 4.64.10\n\n_2026-10-18_\n\n### Bug Fixes\n\n- Avoid breaking lazy loading when a dynamic import only contains reexports from a manual chunk (#6583)\n- Ensure HTML entities in JSX are properly decoded in the output (#6584)\n\n### Pull Requests\n\n- [#6583](https://github.com/rollup/rollup/pull/6583): Track manual chunk dependencies when merging small chunks (@ybai08, @lukastaegert)\n- [#6584](https://github.com/rollup/rollup/pull/6584): Use decoded values for JSX string attributes (@luantaraschi)",
   "mentions_count": 3
 }
