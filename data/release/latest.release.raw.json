@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/rollup/rollup/releases/416506399",
-  "assets_url": "https://api.github.com/repos/rollup/rollup/releases/416506399/assets",
-  "upload_url": "https://uploads.github.com/repos/rollup/rollup/releases/416506399/assets{?name,label}",
-  "html_url": "https://github.com/rollup/rollup/releases/tag/v4.64.10",
-  "id": 416506399,
+  "url": "https://api.github.com/repos/rollup/rollup/releases/418038371",
+  "assets_url": "https://api.github.com/repos/rollup/rollup/releases/418038371/assets",
+  "upload_url": "https://uploads.github.com/repos/rollup/rollup/releases/418038371/assets{?name,label}",
+  "html_url": "https://github.com/rollup/rollup/releases/tag/v4.64.12",
+  "id": 418038371,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOAh_Tpc4Y02If",
-  "tag_name": "v4.64.10",
+  "node_id": "RE_kwDOAh_Tpc4Y6sJj",
+  "tag_name": "v4.64.12",
   "target_commitish": "master",
-  "name": "v4.64.10",
+  "name": "v4.64.12",
   "draft": false,
   "immutable": true,
   "prerelease": false,
-  "created_at": "2026-10-18T13:25:59Z",
-  "updated_at": "2026-10-18T14:47:59Z",
-  "published_at": "2026-10-18T14:47:59Z",
+  "created_at": "2026-10-20T05:00:25Z",
+  "updated_at": "2026-10-20T05:30:46Z",
+  "published_at": "2026-10-20T05:30:46Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/rollup/rollup/tarball/v4.64.10",
-  "zipball_url": "https://api.github.com/repos/rollup/rollup/zipball/v4.64.10",
-  "body": "## 4.64.10\n\n_2026-10-18_\n\n### Bug Fixes\n\n- Avoid breaking lazy loading when a dynamic import only contains reexports from a manual chunk (#6583)\n- Ensure HTML entities in JSX are properly decoded in the output (#6584)\n\n### Pull Requests\n\n- [#6583](https://github.com/rollup/rollup/pull/6583): Track manual chunk dependencies when merging small chunks (@ybai08, @lukastaegert)\n- [#6584](https://github.com/rollup/rollup/pull/6584): Use decoded values for JSX string attributes (@luantaraschi)",
-  "mentions_count": 3
+  "tarball_url": "https://api.github.com/repos/rollup/rollup/tarball/v4.64.12",
+  "zipball_url": "https://api.github.com/repos/rollup/rollup/zipball/v4.64.12",
+  "body": "## 4.64.12\n\n_2026-10-20_\n\n### Bug Fixes\n\n- Allow generating logs from transform hooks at position 0 (#6587)\n- Properly handle global or sticky regular expressions for file names (#6588)\n\n### Pull Requests\n\n- [#6587](https://github.com/rollup/rollup/pull/6587): Fix transform diagnostics at position zero (@shuaiyafei)\n- [#6588](https://github.com/rollup/rollup/pull/6588): Match stateful external regular expressions consistently (@shuaiyafei)",
+  "mentions_count": 1
 }
