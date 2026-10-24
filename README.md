@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v4.65.0` (2026-10-22)
-- **Last commit**: 2026-10-22
+- **Last commit**: 2026-10-23
 
 ## Popularity
 
-- **Stars**: 26,305 · **Forks**: 1,796 · **Open issues**: 3,519 · **Contributors**: 474
+- **Stars**: 26,303 · **Forks**: 1,801 · **Open issues**: 3,519 · **Contributors**: 474
 
 ## Totals (cumulative)
 
-- **Releases**: 610 · **Merged PRs**: 2573 · **Open PRs**: 26 · **Closed issues**: 2944 · **Open issues**: 575 · **Commits**: 6451
+- **Releases**: 610 · **Merged PRs**: 2577 · **Open PRs**: 21 · **Closed issues**: 2944 · **Open issues**: 575 · **Commits**: 6453
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 15 | 56 | 6 | 5 | 1 | 65 |
-| last60d | 2026-08-24 | 20 | 83 | 8 | 9 | 1 | 98 |
-| 90d | 2026-07-25 | 23 | 105 | 10 | 11 | 1 | 123 |
-| last180d | 2026-04-26 | 29 | 175 | 15 | 18 | 3 | 212 |
-| 360d | 2025-10-28 | 49 | 312 | 17 | 45 | 13 | 369 |
-| last720d | 2024-11-02 | 100 | 562 | 21 | 141 | 54 | 701 |
+| 30d | 2026-09-24 | 15 | 60 | 2 | 5 | 1 | 67 |
+| last60d | 2026-08-25 | 20 | 87 | 3 | 9 | 1 | 100 |
+| 90d | 2026-07-26 | 23 | 108 | 5 | 11 | 1 | 125 |
+| last180d | 2026-04-27 | 29 | 179 | 10 | 18 | 3 | 214 |
+| 360d | 2025-10-29 | 49 | 316 | 12 | 44 | 12 | 371 |
+| last720d | 2024-11-03 | 100 | 566 | 16 | 140 | 54 | 703 |
 
 ## Distribution status
 
@@ -70,7 +70,7 @@ Reported by **7** distros on [repology.org](https://repology.org/project/rollup)
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `4.64.12` | ✅ latest |
+| Homebrew | `4.65.0` | ✅ latest |
 | Alpine edge | `4.60.3` | ⚠️ outdated |
 | openSUSE Tumbleweed | `3.29.5` | ⚠️ outdated |
 
@@ -83,4 +83,4 @@ Install metadata for rollup lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T05:04:20Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T04:44:25Z._
