@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 26,306 · **Forks**: 1,833 · **Open issues**: 3,519 · **Contributors**: 474
+- **Stars**: 26,305 · **Forks**: 1,850 · **Open issues**: 3,519 · **Contributors**: 474
 
 ## Totals (cumulative)
 
@@ -57,20 +57,20 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 15 | 54 | 4 | 5 | 1 | 61 |
-| last60d | 2026-08-28 | 20 | 86 | 4 | 7 | 1 | 98 |
-| 90d | 2026-07-29 | 23 | 109 | 7 | 10 | 1 | 120 |
-| last180d | 2026-04-30 | 30 | 180 | 12 | 18 | 2 | 207 |
-| 360d | 2025-11-01 | 50 | 314 | 14 | 44 | 12 | 370 |
-| last720d | 2024-11-06 | 100 | 567 | 18 | 139 | 54 | 701 |
+| 30d | 2026-09-28 | 15 | 53 | 3 | 4 | 1 | 61 |
+| last60d | 2026-08-29 | 19 | 85 | 4 | 7 | 1 | 98 |
+| 90d | 2026-07-30 | 23 | 106 | 7 | 10 | 1 | 120 |
+| last180d | 2026-05-01 | 30 | 180 | 12 | 18 | 2 | 207 |
+| 360d | 2025-11-02 | 50 | 314 | 14 | 44 | 12 | 370 |
+| last720d | 2024-11-07 | 100 | 567 | 18 | 139 | 54 | 701 |
 
 ## Distribution status
 
-Reported by **7** distros on [repology.org](https://repology.org/project/rollup). **2** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
+Reported by **8** distros on [repology.org](https://repology.org/project/rollup). **2** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `4.65.0` | ✅ latest |
+| Homebrew | `4.65.1` | ✅ latest |
 | Alpine edge | `4.60.3` | ⚠️ outdated |
 | openSUSE Tumbleweed | `3.29.5` | ⚠️ outdated |
 
@@ -83,4 +83,4 @@ Install metadata for rollup lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261027.yml` · 2026-10-27T05:16:42Z._
+_Snapshot: `data/card/261028.yml` · 2026-10-28T05:48:59Z._
