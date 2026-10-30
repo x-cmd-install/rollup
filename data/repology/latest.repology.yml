@@ -63,7 +63,7 @@
 - repo: homebrew
   srcname: rollup
   visiblename: rollup
-  version: 4.65.1
+  version: 4.66.0
   origversion: null
   status: newest
   summary: Next-generation ES module bundler
@@ -75,6 +75,22 @@
   visiblename: rollup
   version: 4.65.1
   origversion: 4.65.1-1mamba
+  status: legacy
+  summary: Next-generation ES module bundler
+  maintainers:
+    - silvan@openmamba.org
+  licenses:
+    - MIT
+  categories:
+    - Development/Tools
+- repo: openmamba
+  subrepo: devel-makedist
+  srcname: rollup
+  binnames:
+    - rollup
+  visiblename: rollup
+  version: 4.66.0
+  origversion: 4.66.0-1mamba
   status: newest
   summary: Next-generation ES module bundler
   maintainers:

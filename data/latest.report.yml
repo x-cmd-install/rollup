@@ -2,98 +2,98 @@ about:
   description: "Next-generation ES module bundler"
   license: NOASSERTION
   homepage: https://rollupjs.org
-  head: 4de8104
+  head: bfd14c8
   archived: false
   latestVersion: "v4.66.0"
   latestRelease: "v4.66.0"
   latestPrerelease: ""
-  collectedAt: 2026-10-29T06:03:27Z
+  collectedAt: 2026-10-30T06:01:12Z
 timeline:
   created: 2015-05-14
-  lastCommit: 2026-10-28
+  lastCommit: 2026-10-30
   lastVersion: 2026-10-28
   lastRelease: 2026-10-28
   lastPrerelease: 
 popularity:
-  star: 26306
+  star: 26305
   watcher: 246
-  fork: 1866
+  fork: 1884
   release: 612
-  contributor: 475
-  pullRequest: 2956
+  contributor: 476
+  pullRequest: 2967
   issue: 3520
 language:
-  JavaScript: 8616096
+  JavaScript: 8616588
   TypeScript: 1193884
   Rust: 211467
   HTML: 5020
   Shell: 1220
   CSS: 37
-totalBytes: 10027724
+totalBytes: 10028216
 recent:
   last30d:
-    since: 2026-09-29
+    since: 2026-09-30
     release: 16
-    mergedPR: 55
-    openPR: 1
+    mergedPR: 59
+    openPR: 4
     closedIssue: 3
     openIssue: 2
-    commit: 66
+    commit: 72
   last60d:
-    since: 2026-08-30
+    since: 2026-08-31
     release: 20
-    mergedPR: 88
-    openPR: 2
-    closedIssue: 6
-    openIssue: 2
-    commit: 103
-  last90d:
-    since: 2026-07-31
-    release: 24
-    mergedPR: 107
+    mergedPR: 93
     openPR: 5
+    closedIssue: 5
+    openIssue: 2
+    commit: 109
+  last90d:
+    since: 2026-08-01
+    release: 24
+    mergedPR: 113
+    openPR: 8
     closedIssue: 10
     openIssue: 2
-    commit: 125
+    commit: 131
   last180d:
-    since: 2026-05-02
+    since: 2026-05-03
     release: 31
-    mergedPR: 183
-    openPR: 10
+    mergedPR: 189
+    openPR: 13
     closedIssue: 18
     openIssue: 3
-    commit: 212
+    commit: 218
   last360d:
-    since: 2025-11-03
+    since: 2025-11-04
     release: 51
-    mergedPR: 317
-    openPR: 12
+    mergedPR: 323
+    openPR: 15
     closedIssue: 44
     openIssue: 13
-    commit: 375
+    commit: 381
   last720d:
-    since: 2024-11-08
+    since: 2024-11-09
     release: 100
-    mergedPR: 567
-    openPR: 16
+    mergedPR: 572
+    openPR: 19
     closedIssue: 139
-    openIssue: 55
-    commit: 706
+    openIssue: 54
+    commit: 710
 total:
   release: 612
-  mergedPR: 2581
-  openPR: 21
-  closedIssue: 2944
-  openIssue: 576
-  commit: 6460
+  mergedPR: 2587
+  openPR: 24
+  closedIssue: 2945
+  openIssue: 575
+  commit: 6466
 ---
 path: /home/runner/.x-repo/github.com/rollup/rollup
-collectedAt: 2026-10-29T06:03:46Z
+collectedAt: 2026-10-30T06:01:27Z
 loc:
   JavaScript:
-    code: 244390
+    code: 244404
     comments: 4335
-    blanks: 24416
+    blanks: 24418
     files: 12586
   TypeScript:
     code: 36373
@@ -101,10 +101,10 @@ loc:
     blanks: 3000
     files: 375
   Json:
-    code: 18883
+    code: 18906
     comments: 0
     blanks: 0
-    files: 85
+    files: 86
   Rust:
     code: 5377
     comments: 340
@@ -162,19 +162,19 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 13559
-    blanks: 6772
-    files: 65
+    comments: 13561
+    blanks: 6773
+    files: 66
   Text:
     code: 0
     comments: 302
     blanks: 11
     files: 277
 total:
-  code: 307444
-  comments: 20190
-  blanks: 34936
-  files: 13577
+  code: 307481
+  comments: 20192
+  blanks: 34939
+  files: 13579
 ---
 date: "2026-10-26"
 repo:
