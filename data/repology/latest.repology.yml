@@ -1,3 +1,33 @@
+- repo: opensuse_tumbleweed
+  subrepo: src-oss
+  srcname: rollup
+  binnames:
+    - rollup
+  visiblename: rollup
+  version: 3.29.5
+  origversion: 3.29.5-1.4
+  status: outdated
+  summary: Module bundler for JavaScript
+  licenses:
+    - BSD-2-Clause
+  categories:
+    - Unspecified
+- repo: openmamba
+  subrepo: base
+  srcname: rollup
+  binnames:
+    - rollup
+  visiblename: rollup
+  version: 4.66.0
+  origversion: 4.66.0-1mamba
+  status: newest
+  summary: Next-generation ES module bundler
+  maintainers:
+    - silvan@openmamba.org
+  licenses:
+    - MIT
+  categories:
+    - Development/Tools
 - repo: alpine_edge
   subrepo: community
   srcname: rollup
@@ -67,49 +97,3 @@
   origversion: null
   status: newest
   summary: Next-generation ES module bundler
-- repo: openmamba
-  subrepo: base
-  srcname: rollup
-  binnames:
-    - rollup
-  visiblename: rollup
-  version: 4.65.1
-  origversion: 4.65.1-1mamba
-  status: legacy
-  summary: Next-generation ES module bundler
-  maintainers:
-    - silvan@openmamba.org
-  licenses:
-    - MIT
-  categories:
-    - Development/Tools
-- repo: openmamba
-  subrepo: devel-makedist
-  srcname: rollup
-  binnames:
-    - rollup
-  visiblename: rollup
-  version: 4.66.0
-  origversion: 4.66.0-1mamba
-  status: newest
-  summary: Next-generation ES module bundler
-  maintainers:
-    - silvan@openmamba.org
-  licenses:
-    - MIT
-  categories:
-    - Development/Tools
-- repo: opensuse_tumbleweed
-  subrepo: src-oss
-  srcname: rollup
-  binnames:
-    - rollup
-  visiblename: rollup
-  version: 3.29.5
-  origversion: 3.29.5-1.4
-  status: outdated
-  summary: Module bundler for JavaScript
-  licenses:
-    - BSD-2-Clause
-  categories:
-    - Unspecified
