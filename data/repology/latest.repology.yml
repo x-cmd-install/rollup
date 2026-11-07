@@ -73,22 +73,6 @@
   binnames:
     - rollup
   visiblename: rollup
-  version: 4.67.4
-  origversion: 4.67.4-1mamba
-  status: legacy
-  summary: Next-generation ES module bundler
-  maintainers:
-    - silvan@openmamba.org
-  licenses:
-    - MIT
-  categories:
-    - Development/Tools
-- repo: openmamba
-  subrepo: devel-makedist
-  srcname: rollup
-  binnames:
-    - rollup
-  visiblename: rollup
   version: 4.67.5
   origversion: 4.67.5-1mamba
   status: newest
