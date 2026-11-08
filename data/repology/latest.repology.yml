@@ -63,7 +63,7 @@
 - repo: homebrew
   srcname: rollup
   visiblename: rollup
-  version: 4.67.5
+  version: 4.68.0
   origversion: null
   status: newest
   summary: Next-generation ES module bundler
@@ -73,8 +73,8 @@
   binnames:
     - rollup
   visiblename: rollup
-  version: 4.67.5
-  origversion: 4.67.5-1mamba
+  version: 4.68.0
+  origversion: 4.68.0-1mamba
   status: newest
   summary: Next-generation ES module bundler
   maintainers:
