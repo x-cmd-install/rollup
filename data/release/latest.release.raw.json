@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/rollup/rollup/releases/436760244",
-  "assets_url": "https://api.github.com/repos/rollup/rollup/releases/436760244/assets",
-  "upload_url": "https://uploads.github.com/repos/rollup/rollup/releases/436760244/assets{?name,label}",
-  "html_url": "https://github.com/rollup/rollup/releases/tag/v4.68.0",
-  "id": 436760244,
+  "url": "https://api.github.com/repos/rollup/rollup/releases/438773139",
+  "assets_url": "https://api.github.com/repos/rollup/rollup/releases/438773139/assets",
+  "upload_url": "https://uploads.github.com/repos/rollup/rollup/releases/438773139/assets{?name,label}",
+  "html_url": "https://github.com/rollup/rollup/releases/tag/v4.68.1",
+  "id": 438773139,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOAh_Tpc4aCG60",
-  "tag_name": "v4.68.0",
+  "node_id": "RE_kwDOAh_Tpc4aJyWT",
+  "tag_name": "v4.68.1",
   "target_commitish": "master",
-  "name": "v4.68.0",
+  "name": "v4.68.1",
   "draft": false,
   "immutable": true,
   "prerelease": false,
-  "created_at": "2026-11-06T16:17:47Z",
-  "updated_at": "2026-11-06T16:55:13Z",
-  "published_at": "2026-11-06T16:55:13Z",
+  "created_at": "2026-11-09T05:03:29Z",
+  "updated_at": "2026-11-09T05:29:34Z",
+  "published_at": "2026-11-09T05:29:34Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/rollup/rollup/tarball/v4.68.0",
-  "zipball_url": "https://api.github.com/repos/rollup/rollup/zipball/v4.68.0",
-  "body": "## 4.68.0\n\n_2026-11-06_\n\n### Features\n\n- Use the directory name instead of \"index\" for dynamic chunks of `index.js` files (#6630)\n- Support tree-shaking of namespace members through default exports (#6631)\n- Use cached sourcemaps if available when reading cached files (#6636)\n\n### Bug Fixes\n\n- No longer confuse import names starting with a literal \"*\" with internal namespace import placeholders (#6628)\n- Resolve a situation where a shared module accessed through different dynamic imports was wrongly merged into the first (#6632)\n\n### Pull Requests\n\n- [#6628](https://github.com/rollup/rollup/pull/6628): Preserve import and export names starting with \"*\" (@clean99, @lukastaegert)\n- [#6630](https://github.com/rollup/rollup/pull/6630): Name dynamic chunks of index files after their directory (@clean99, @lukastaegert)\n- [#6631](https://github.com/rollup/rollup/pull/6631): Tree-shake namespace members accessed through a default export (@thelastbackspace)\n- [#6632](https://github.com/rollup/rollup/pull/6632): Record live dynamic import edges for chunk assignment (@mayankdhingra02, @lukastaegert)\n- [#6633](https://github.com/rollup/rollup/pull/6633): Update minor/patch updates (@renovate[bot], @lukastaegert)\n- [#6634](https://github.com/rollup/rollup/pull/6634): Update swc monorepo (major) (@renovate[bot], @lukastaegert)\n- [#6635](https://github.com/rollup/rollup/pull/6635): Lock file maintenance (@renovate[bot], @lukastaegert)\n- [#6636](https://github.com/rollup/rollup/pull/6636): Do not decode cached sourcemaps again when reusing cached modules (@Ice-Hazymoon, @lukastaegert)",
+  "tarball_url": "https://api.github.com/repos/rollup/rollup/tarball/v4.68.1",
+  "zipball_url": "https://api.github.com/repos/rollup/rollup/zipball/v4.68.1",
+  "body": "## 4.68.1\n\n_2026-11-09_\n\n### Bug Fixes\n\n- Improve namespace object generation in cyclic imports (#6644)\n- Warn about deleting or reassigning namespace members but make those operations catchable runtime errors (#6645)\n- Do not generate invalid code for non-esm output when exporting destructing declarations with defaults (#6648)\n\n### Pull Requests\n\n- [#6638](https://github.com/rollup/rollup/pull/6638): docs: add missing options to the config file example (@Aryapatel-007, @lukastaegert)\n- [#6639](https://github.com/rollup/rollup/pull/6639): List --interop modes in CLI help instead of --no-interop (@ZainnQureshii, @lukastaegert)\n- [#6643](https://github.com/rollup/rollup/pull/6643): docs: update the ES modules sentence in the introduction (@vigohan95)\n- [#6644](https://github.com/rollup/rollup/pull/6644): Defer namespace bindings initialized later in a cycle (@mayankdhingra02)\n- [#6645](https://github.com/rollup/rollup/pull/6645): Preserve namespace property references in delete expressions (@mayankdhingra02, @lukastaegert)\n- [#6648](https://github.com/rollup/rollup/pull/6648): Fix invalid output for exported destructuring declarations with defaults (@trleo, @lukastaegert)",
   "mentions_count": 6
 }
