@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/rollup/rollup/releases/438773139",
-  "assets_url": "https://api.github.com/repos/rollup/rollup/releases/438773139/assets",
-  "upload_url": "https://uploads.github.com/repos/rollup/rollup/releases/438773139/assets{?name,label}",
-  "html_url": "https://github.com/rollup/rollup/releases/tag/v4.68.1",
-  "id": 438773139,
+  "url": "https://api.github.com/repos/rollup/rollup/releases/439220185",
+  "assets_url": "https://api.github.com/repos/rollup/rollup/releases/439220185/assets",
+  "upload_url": "https://uploads.github.com/repos/rollup/rollup/releases/439220185/assets{?name,label}",
+  "html_url": "https://github.com/rollup/rollup/releases/tag/v4.68.2",
+  "id": 439220185,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOAh_Tpc4aJyWT",
-  "tag_name": "v4.68.1",
+  "node_id": "RE_kwDOAh_Tpc4aLffZ",
+  "tag_name": "v4.68.2",
   "target_commitish": "master",
-  "name": "v4.68.1",
+  "name": "v4.68.2",
   "draft": false,
   "immutable": true,
   "prerelease": false,
-  "created_at": "2026-11-09T05:03:29Z",
-  "updated_at": "2026-11-09T05:29:34Z",
-  "published_at": "2026-11-09T05:29:34Z",
+  "created_at": "2026-11-09T13:55:08Z",
+  "updated_at": "2026-11-09T14:16:50Z",
+  "published_at": "2026-11-09T14:16:50Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/rollup/rollup/tarball/v4.68.1",
-  "zipball_url": "https://api.github.com/repos/rollup/rollup/zipball/v4.68.1",
-  "body": "## 4.68.1\n\n_2026-11-09_\n\n### Bug Fixes\n\n- Improve namespace object generation in cyclic imports (#6644)\n- Warn about deleting or reassigning namespace members but make those operations catchable runtime errors (#6645)\n- Do not generate invalid code for non-esm output when exporting destructing declarations with defaults (#6648)\n\n### Pull Requests\n\n- [#6638](https://github.com/rollup/rollup/pull/6638): docs: add missing options to the config file example (@Aryapatel-007, @lukastaegert)\n- [#6639](https://github.com/rollup/rollup/pull/6639): List --interop modes in CLI help instead of --no-interop (@ZainnQureshii, @lukastaegert)\n- [#6643](https://github.com/rollup/rollup/pull/6643): docs: update the ES modules sentence in the introduction (@vigohan95)\n- [#6644](https://github.com/rollup/rollup/pull/6644): Defer namespace bindings initialized later in a cycle (@mayankdhingra02)\n- [#6645](https://github.com/rollup/rollup/pull/6645): Preserve namespace property references in delete expressions (@mayankdhingra02, @lukastaegert)\n- [#6648](https://github.com/rollup/rollup/pull/6648): Fix invalid output for exported destructuring declarations with defaults (@trleo, @lukastaegert)",
-  "mentions_count": 6
+  "tarball_url": "https://api.github.com/repos/rollup/rollup/tarball/v4.68.2",
+  "zipball_url": "https://api.github.com/repos/rollup/rollup/zipball/v4.68.2",
+  "body": "## 4.68.2\n\n_2026-11-09_\n\n### Bug Fixes\n\n- Fail if generated file names would write outside the target directory using Windows drive-relative paths (#6652)\n\n### Pull Requests\n\n- [#6652](https://github.com/rollup/rollup/pull/6652): Reject Windows drive-relative output file names (@lukastaegert)",
+  "mentions_count": 1
 }
