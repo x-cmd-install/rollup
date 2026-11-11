@@ -41,5 +41,17 @@
   "tarball_url": "https://api.github.com/repos/rollup/rollup/tarball/v4.68.2",
   "zipball_url": "https://api.github.com/repos/rollup/rollup/zipball/v4.68.2",
   "body": "## 4.68.2\n\n_2026-11-09_\n\n### Bug Fixes\n\n- Fail if generated file names would write outside the target directory using Windows drive-relative paths (#6652)\n\n### Pull Requests\n\n- [#6652](https://github.com/rollup/rollup/pull/6652): Reject Windows drive-relative output file names (@lukastaegert)",
+  "reactions": {
+    "url": "https://api.github.com/repos/rollup/rollup/releases/439220185/reactions",
+    "total_count": 1,
+    "+1": 1,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 0,
+    "confused": 0,
+    "heart": 0,
+    "rocket": 0,
+    "eyes": 0
+  },
   "mentions_count": 1
 }
