@@ -47,26 +47,26 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 26,301 · **Forks**: 1,902 · **Open issues**: 3,527 · **Contributors**: 486
+- **Stars**: 26,302 · **Forks**: 1,904 · **Open issues**: 3,527 · **Contributors**: 486
 
 ## Totals (cumulative)
 
-- **Releases**: 619 · **Merged PRs**: 2612 · **Open PRs**: 26 · **Closed issues**: 2953 · **Open issues**: 574 · **Commits**: 6501
+- **Releases**: 619 · **Merged PRs**: 2612 · **Open PRs**: 28 · **Closed issues**: 2953 · **Open issues**: 574 · **Commits**: 6501
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-12 | 16 | 59 | 7 | 7 | 3 | 74 |
-| last60d | 2026-09-12 | 27 | 106 | 7 | 11 | 4 | 127 |
-| 90d | 2026-08-13 | 30 | 128 | 9 | 14 | 4 | 157 |
-| last180d | 2026-05-15 | 37 | 202 | 15 | 22 | 4 | 240 |
-| 360d | 2025-11-16 | 55 | 337 | 16 | 43 | 15 | 400 |
-| last720d | 2024-11-21 | 100 | 588 | 21 | 139 | 54 | 728 |
+| 30d | 2026-10-13 | 16 | 59 | 9 | 6 | 3 | 74 |
+| last60d | 2026-09-13 | 26 | 106 | 9 | 11 | 4 | 127 |
+| 90d | 2026-08-14 | 30 | 127 | 11 | 14 | 4 | 157 |
+| last180d | 2026-05-16 | 37 | 202 | 17 | 21 | 4 | 240 |
+| 360d | 2025-11-17 | 55 | 337 | 18 | 43 | 15 | 400 |
+| last720d | 2024-11-22 | 100 | 587 | 23 | 139 | 54 | 728 |
 
 ## Distribution status
 
-Reported by **8** distros on [repology.org](https://repology.org/project/rollup). **2** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
+Reported by **7** distros on [repology.org](https://repology.org/project/rollup). **2** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -83,4 +83,4 @@ Install metadata for rollup lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261111.yml` · 2026-11-11T06:29:53Z._
+_Snapshot: `data/card/261112.yml` · 2026-11-12T07:29:52Z._
