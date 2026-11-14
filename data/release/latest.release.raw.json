@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/rollup/rollup/releases/439220185",
-  "assets_url": "https://api.github.com/repos/rollup/rollup/releases/439220185/assets",
-  "upload_url": "https://uploads.github.com/repos/rollup/rollup/releases/439220185/assets{?name,label}",
-  "html_url": "https://github.com/rollup/rollup/releases/tag/v4.68.2",
-  "id": 439220185,
+  "url": "https://api.github.com/repos/rollup/rollup/releases/443982958",
+  "assets_url": "https://api.github.com/repos/rollup/rollup/releases/443982958/assets",
+  "upload_url": "https://uploads.github.com/repos/rollup/rollup/releases/443982958/assets{?name,label}",
+  "html_url": "https://github.com/rollup/rollup/releases/tag/v4.68.3",
+  "id": 443982958,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,33 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOAh_Tpc4aLffZ",
-  "tag_name": "v4.68.2",
+  "node_id": "RE_kwDOAh_Tpc4adqRu",
+  "tag_name": "v4.68.3",
   "target_commitish": "master",
-  "name": "v4.68.2",
+  "name": "v4.68.3",
   "draft": false,
   "immutable": true,
   "prerelease": false,
-  "created_at": "2026-11-09T13:55:08Z",
-  "updated_at": "2026-11-09T14:16:50Z",
-  "published_at": "2026-11-09T14:16:50Z",
+  "created_at": "2026-11-13T08:03:12Z",
+  "updated_at": "2026-11-13T08:26:17Z",
+  "published_at": "2026-11-13T08:26:17Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/rollup/rollup/tarball/v4.68.2",
-  "zipball_url": "https://api.github.com/repos/rollup/rollup/zipball/v4.68.2",
-  "body": "## 4.68.2\n\n_2026-11-09_\n\n### Bug Fixes\n\n- Fail if generated file names would write outside the target directory using Windows drive-relative paths (#6652)\n\n### Pull Requests\n\n- [#6652](https://github.com/rollup/rollup/pull/6652): Reject Windows drive-relative output file names (@lukastaegert)",
-  "reactions": {
-    "url": "https://api.github.com/repos/rollup/rollup/releases/439220185/reactions",
-    "total_count": 1,
-    "+1": 1,
-    "-1": 0,
-    "laugh": 0,
-    "hooray": 0,
-    "confused": 0,
-    "heart": 0,
-    "rocket": 0,
-    "eyes": 0
-  },
-  "mentions_count": 1
+  "tarball_url": "https://api.github.com/repos/rollup/rollup/tarball/v4.68.3",
+  "zipball_url": "https://api.github.com/repos/rollup/rollup/zipball/v4.68.3",
+  "body": "## 4.68.3\n\n_2026-11-13_\n\n### Bug Fixes\n\n- Fix generated code in non-ESM formats for assignments and exported declarations in loops and single-statement bodies (#6651)\n- Ensure rollup does not make assumptions about the contents of an array where the length has been reassigned (#6655)\n\n### Pull Requests\n\n- [#6651](https://github.com/rollup/rollup/pull/6651): Fix system format updates for destructuring and for-loop assignments (@rome-xi, @lukastaegert)\n- [#6655](https://github.com/rollup/rollup/pull/6655): Deoptimize array elements when the length is assigned (@waw666waw666, @lukastaegert)\n- [#6657](https://github.com/rollup/rollup/pull/6657): docs: remove the dead repl.it reproduction option from the bug report template (@abd1rahmane, @lukastaegert)\n- [#6658](https://github.com/rollup/rollup/pull/6658): Update minor/patch updates (@renovate[bot])\n- [#6659](https://github.com/rollup/rollup/pull/6659): Lock file maintenance (@renovate[bot])\n- [#6660](https://github.com/rollup/rollup/pull/6660): Lock file maintenance (@renovate[bot])\n- [#6662](https://github.com/rollup/rollup/pull/6662): Update minor/patch updates (@renovate[bot], @lukastaegert)\n- [#6663](https://github.com/rollup/rollup/pull/6663): Lock file maintenance (@renovate[bot])",
+  "mentions_count": 5
 }
