@@ -42,27 +42,27 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v4.68.2` (2026-11-09)
+- **Latest**: `v4.68.3` (2026-11-13)
 - **Last commit**: 2026-11-13
 
 ## Popularity
 
-- **Stars**: 26,301 · **Forks**: 1,904 · **Open issues**: 3,527 · **Contributors**: 488
+- **Stars**: 26,301 · **Forks**: 1,904 · **Open issues**: 3,528 · **Contributors**: 489
 
 ## Totals (cumulative)
 
-- **Releases**: 619 · **Merged PRs**: 2618 · **Open PRs**: 30 · **Closed issues**: 2955 · **Open issues**: 572 · **Commits**: 6509
+- **Releases**: 620 · **Merged PRs**: 2620 · **Open PRs**: 28 · **Closed issues**: 2956 · **Open issues**: 572 · **Commits**: 6512
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 15 | 64 | 11 | 7 | 2 | 82 |
-| last60d | 2026-09-14 | 26 | 111 | 11 | 12 | 3 | 135 |
-| 90d | 2026-08-15 | 30 | 133 | 13 | 15 | 3 | 165 |
-| last180d | 2026-05-17 | 37 | 208 | 19 | 22 | 3 | 248 |
-| 360d | 2025-11-18 | 55 | 343 | 20 | 45 | 12 | 408 |
-| last720d | 2024-11-23 | 100 | 593 | 25 | 141 | 52 | 735 |
+| 30d | 2026-10-15 | 16 | 60 | 9 | 8 | 2 | 85 |
+| last60d | 2026-09-15 | 26 | 112 | 9 | 13 | 3 | 138 |
+| 90d | 2026-08-16 | 31 | 135 | 11 | 16 | 3 | 168 |
+| last180d | 2026-05-18 | 38 | 210 | 17 | 23 | 3 | 251 |
+| 360d | 2025-11-19 | 56 | 345 | 18 | 46 | 12 | 411 |
+| last720d | 2024-11-24 | 100 | 595 | 23 | 142 | 52 | 737 |
 
 ## Distribution status
 
@@ -83,4 +83,4 @@ Install metadata for rollup lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T06:57:13Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T06:38:42Z._
