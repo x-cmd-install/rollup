@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 26,301 · **Forks**: 1,904 · **Open issues**: 3,528 · **Contributors**: 489
+- **Stars**: 26,305 · **Forks**: 1,907 · **Open issues**: 3,528 · **Contributors**: 489
 
 ## Totals (cumulative)
 
-- **Releases**: 620 · **Merged PRs**: 2620 · **Open PRs**: 28 · **Closed issues**: 2956 · **Open issues**: 572 · **Commits**: 6512
+- **Releases**: 620 · **Merged PRs**: 2621 · **Open PRs**: 28 · **Closed issues**: 2956 · **Open issues**: 572 · **Commits**: 6512
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 16 | 60 | 9 | 8 | 2 | 85 |
-| last60d | 2026-09-15 | 26 | 112 | 9 | 13 | 3 | 138 |
-| 90d | 2026-08-16 | 31 | 135 | 11 | 16 | 3 | 168 |
-| last180d | 2026-05-18 | 38 | 210 | 17 | 23 | 3 | 251 |
-| 360d | 2025-11-19 | 56 | 345 | 18 | 46 | 12 | 411 |
-| last720d | 2024-11-24 | 100 | 595 | 23 | 142 | 52 | 737 |
+| 30d | 2026-10-16 | 15 | 60 | 9 | 8 | 2 | 85 |
+| last60d | 2026-09-16 | 26 | 112 | 9 | 13 | 3 | 138 |
+| 90d | 2026-08-17 | 31 | 136 | 10 | 16 | 3 | 168 |
+| last180d | 2026-05-19 | 38 | 211 | 17 | 23 | 3 | 251 |
+| 360d | 2025-11-20 | 55 | 344 | 18 | 46 | 12 | 411 |
+| last720d | 2024-11-25 | 100 | 596 | 23 | 141 | 52 | 737 |
 
 ## Distribution status
 
@@ -70,7 +70,7 @@ Reported by **7** distros on [repology.org](https://repology.org/project/rollup)
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `4.68.2` | ✅ latest |
+| Homebrew | `4.68.3` | ✅ latest |
 | Alpine edge | `4.60.3` | ⚠️ outdated |
 | openSUSE Tumbleweed | `3.29.5` | ⚠️ outdated |
 
@@ -83,4 +83,4 @@ Install metadata for rollup lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T06:38:42Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T06:45:45Z._
