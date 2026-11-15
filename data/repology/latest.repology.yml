@@ -1,3 +1,42 @@
+- repo: opensuse_tumbleweed
+  subrepo: src-oss
+  srcname: rollup
+  binnames:
+    - rollup
+  visiblename: rollup
+  version: 3.29.5
+  origversion: 3.29.5-1.4
+  status: outdated
+  summary: Module bundler for JavaScript
+  licenses:
+    - BSD-2-Clause
+  categories:
+    - Unspecified
+- repo: altsisyphus
+  srcname: rollup
+  binnames:
+    - rollup
+    - rollup-debuginfo
+    - rollup-native
+    - rollup-native-debuginfo
+  visiblename: rollup
+  version: 4.60.2
+  origversion: 4.60.2-alt2
+  status: outdated
+  summary: Rollup JavaScript bundler
+  maintainers:
+    - iv@altlinux.org
+  licenses:
+    - MIT
+  categories:
+    - Development/Other
+- repo: homebrew
+  srcname: rollup
+  visiblename: rollup
+  version: 4.68.3
+  origversion: null
+  status: newest
+  summary: Next-generation ES module bundler
 - repo: alpine_edge
   subrepo: community
   srcname: rollup
@@ -42,39 +81,14 @@
     - MIT
   categories:
     - Development/Other
-- repo: altsisyphus
-  srcname: rollup
-  binnames:
-    - rollup
-    - rollup-debuginfo
-    - rollup-native
-    - rollup-native-debuginfo
-  visiblename: rollup
-  version: 4.60.2
-  origversion: 4.60.2-alt2
-  status: outdated
-  summary: Rollup JavaScript bundler
-  maintainers:
-    - iv@altlinux.org
-  licenses:
-    - MIT
-  categories:
-    - Development/Other
-- repo: homebrew
-  srcname: rollup
-  visiblename: rollup
-  version: 4.68.2
-  origversion: null
-  status: newest
-  summary: Next-generation ES module bundler
 - repo: openmamba
   subrepo: base
   srcname: rollup
   binnames:
     - rollup
   visiblename: rollup
-  version: 4.68.2
-  origversion: 4.68.2-1mamba
+  version: 4.68.3
+  origversion: 4.68.3-1mamba
   status: newest
   summary: Next-generation ES module bundler
   maintainers:
@@ -83,17 +97,3 @@
     - MIT
   categories:
     - Development/Tools
-- repo: opensuse_tumbleweed
-  subrepo: src-oss
-  srcname: rollup
-  binnames:
-    - rollup
-  visiblename: rollup
-  version: 3.29.5
-  origversion: 3.29.5-1.4
-  status: outdated
-  summary: Module bundler for JavaScript
-  licenses:
-    - BSD-2-Clause
-  categories:
-    - Unspecified
