@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/rollup/rollup/releases/443982958",
-  "assets_url": "https://api.github.com/repos/rollup/rollup/releases/443982958/assets",
-  "upload_url": "https://uploads.github.com/repos/rollup/rollup/releases/443982958/assets{?name,label}",
-  "html_url": "https://github.com/rollup/rollup/releases/tag/v4.68.3",
-  "id": 443982958,
+  "url": "https://api.github.com/repos/rollup/rollup/releases/446801530",
+  "assets_url": "https://api.github.com/repos/rollup/rollup/releases/446801530/assets",
+  "upload_url": "https://uploads.github.com/repos/rollup/rollup/releases/446801530/assets{?name,label}",
+  "html_url": "https://github.com/rollup/rollup/releases/tag/v4.68.4",
+  "id": 446801530,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,21 +25,33 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOAh_Tpc4adqRu",
-  "tag_name": "v4.68.3",
+  "node_id": "RE_kwDOAh_Tpc4aoaZ6",
+  "tag_name": "v4.68.4",
   "target_commitish": "master",
-  "name": "v4.68.3",
+  "name": "v4.68.4",
   "draft": false,
   "immutable": true,
   "prerelease": false,
-  "created_at": "2026-11-13T08:03:12Z",
-  "updated_at": "2026-11-13T08:26:17Z",
-  "published_at": "2026-11-13T08:26:17Z",
+  "created_at": "2026-11-16T08:40:49Z",
+  "updated_at": "2026-11-16T09:02:46Z",
+  "published_at": "2026-11-16T09:02:46Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/rollup/rollup/tarball/v4.68.3",
-  "zipball_url": "https://api.github.com/repos/rollup/rollup/zipball/v4.68.3",
-  "body": "## 4.68.3\n\n_2026-11-13_\n\n### Bug Fixes\n\n- Fix generated code in non-ESM formats for assignments and exported declarations in loops and single-statement bodies (#6651)\n- Ensure rollup does not make assumptions about the contents of an array where the length has been reassigned (#6655)\n\n### Pull Requests\n\n- [#6651](https://github.com/rollup/rollup/pull/6651): Fix system format updates for destructuring and for-loop assignments (@rome-xi, @lukastaegert)\n- [#6655](https://github.com/rollup/rollup/pull/6655): Deoptimize array elements when the length is assigned (@waw666waw666, @lukastaegert)\n- [#6657](https://github.com/rollup/rollup/pull/6657): docs: remove the dead repl.it reproduction option from the bug report template (@abd1rahmane, @lukastaegert)\n- [#6658](https://github.com/rollup/rollup/pull/6658): Update minor/patch updates (@renovate[bot])\n- [#6659](https://github.com/rollup/rollup/pull/6659): Lock file maintenance (@renovate[bot])\n- [#6660](https://github.com/rollup/rollup/pull/6660): Lock file maintenance (@renovate[bot])\n- [#6662](https://github.com/rollup/rollup/pull/6662): Update minor/patch updates (@renovate[bot], @lukastaegert)\n- [#6663](https://github.com/rollup/rollup/pull/6663): Lock file maintenance (@renovate[bot])",
-  "mentions_count": 5
+  "tarball_url": "https://api.github.com/repos/rollup/rollup/tarball/v4.68.4",
+  "zipball_url": "https://api.github.com/repos/rollup/rollup/zipball/v4.68.4",
+  "body": "## 4.68.4\n\n_2026-11-16_\n\n### Bug Fixes\n\n- Ensure that mutations of arguments to certain global methods are respected in analysis (#6661)\n- Ensure dynamic imports resolution via plugin is handled equivalently to regular dynamic imports (#6665)\n\n### Pull Requests\n\n- [#6661](https://github.com/rollup/rollup/pull/6661): Deoptimize arguments that known globals expose via their return value (@waw666waw666)\n- [#6665](https://github.com/rollup/rollup/pull/6665): Fix resolution info for dynamic imports resolved by plugins (@TrickyPi, @lukastaegert)\n- [#6666](https://github.com/rollup/rollup/pull/6666): Document base URL caveats for emitted file URLs (@lukastaegert)",
+  "reactions": {
+    "url": "https://api.github.com/repos/rollup/rollup/releases/446801530/reactions",
+    "total_count": 1,
+    "+1": 1,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 0,
+    "confused": 0,
+    "heart": 0,
+    "rocket": 0,
+    "eyes": 0
+  },
+  "mentions_count": 3
 }
