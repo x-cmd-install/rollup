@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/rollup/rollup/releases/446801530",
-  "assets_url": "https://api.github.com/repos/rollup/rollup/releases/446801530/assets",
-  "upload_url": "https://uploads.github.com/repos/rollup/rollup/releases/446801530/assets{?name,label}",
-  "html_url": "https://github.com/rollup/rollup/releases/tag/v4.68.4",
-  "id": 446801530,
+  "url": "https://api.github.com/repos/rollup/rollup/releases/450117954",
+  "assets_url": "https://api.github.com/repos/rollup/rollup/releases/450117954/assets",
+  "upload_url": "https://uploads.github.com/repos/rollup/rollup/releases/450117954/assets{?name,label}",
+  "html_url": "https://github.com/rollup/rollup/releases/tag/v4.68.7",
+  "id": 450117954,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,24 +25,24 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOAh_Tpc4aoaZ6",
-  "tag_name": "v4.68.4",
+  "node_id": "RE_kwDOAh_Tpc4a1EFC",
+  "tag_name": "v4.68.7",
   "target_commitish": "master",
-  "name": "v4.68.4",
+  "name": "v4.68.7",
   "draft": false,
   "immutable": true,
   "prerelease": false,
-  "created_at": "2026-11-16T08:40:49Z",
-  "updated_at": "2026-11-16T09:02:46Z",
-  "published_at": "2026-11-16T09:02:46Z",
+  "created_at": "2026-11-18T13:55:50Z",
+  "updated_at": "2026-11-18T14:40:30Z",
+  "published_at": "2026-11-18T14:40:30Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/rollup/rollup/tarball/v4.68.4",
-  "zipball_url": "https://api.github.com/repos/rollup/rollup/zipball/v4.68.4",
-  "body": "## 4.68.4\n\n_2026-11-16_\n\n### Bug Fixes\n\n- Ensure that mutations of arguments to certain global methods are respected in analysis (#6661)\n- Ensure dynamic imports resolution via plugin is handled equivalently to regular dynamic imports (#6665)\n\n### Pull Requests\n\n- [#6661](https://github.com/rollup/rollup/pull/6661): Deoptimize arguments that known globals expose via their return value (@waw666waw666)\n- [#6665](https://github.com/rollup/rollup/pull/6665): Fix resolution info for dynamic imports resolved by plugins (@TrickyPi, @lukastaegert)\n- [#6666](https://github.com/rollup/rollup/pull/6666): Document base URL caveats for emitted file URLs (@lukastaegert)",
+  "tarball_url": "https://api.github.com/repos/rollup/rollup/tarball/v4.68.7",
+  "zipball_url": "https://api.github.com/repos/rollup/rollup/zipball/v4.68.7",
+  "body": "## 4.68.7\n\n_2026-11-18_\n\n### Bug Fixes\n\n- Revert previous fix as it was breaking bundling in certain cases (#6671)\n\n### Pull Requests\n\n- [#6671](https://github.com/rollup/rollup/pull/6671): Revert previous fix to fail with a parse error instead of exhausting the native stack (@lukastaegert)",
   "reactions": {
-    "url": "https://api.github.com/repos/rollup/rollup/releases/446801530/reactions",
+    "url": "https://api.github.com/repos/rollup/rollup/releases/450117954/reactions",
     "total_count": 1,
     "+1": 1,
     "-1": 0,
@@ -53,5 +53,5 @@
     "rocket": 0,
     "eyes": 0
   },
-  "mentions_count": 3
+  "mentions_count": 1
 }
