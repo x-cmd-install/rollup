@@ -1,3 +1,26 @@
+- repo: homebrew
+  srcname: rollup
+  visiblename: rollup
+  version: 4.68.7
+  origversion: null
+  status: newest
+  summary: Next-generation ES module bundler
+- repo: openmamba
+  subrepo: base
+  srcname: rollup
+  binnames:
+    - rollup
+  visiblename: rollup
+  version: 4.68.6
+  origversion: 4.68.6-1mamba
+  status: legacy
+  summary: Next-generation ES module bundler
+  maintainers:
+    - silvan@openmamba.org
+  licenses:
+    - MIT
+  categories:
+    - Development/Tools
 - repo: alpine_edge
   subrepo: community
   srcname: rollup
@@ -60,37 +83,14 @@
     - MIT
   categories:
     - Development/Other
-- repo: homebrew
-  srcname: rollup
-  visiblename: rollup
-  version: 4.68.5
-  origversion: null
-  status: newest
-  summary: Next-generation ES module bundler
 - repo: openmamba
-  subrepo: base
+  subrepo: devel-autodist
   srcname: rollup
   binnames:
     - rollup
   visiblename: rollup
-  version: 4.68.4
-  origversion: 4.68.4-1mamba
-  status: legacy
-  summary: Next-generation ES module bundler
-  maintainers:
-    - silvan@openmamba.org
-  licenses:
-    - MIT
-  categories:
-    - Development/Tools
-- repo: openmamba
-  subrepo: devel-makedist
-  srcname: rollup
-  binnames:
-    - rollup
-  visiblename: rollup
-  version: 4.68.5
-  origversion: 4.68.5-1mamba
+  version: 4.68.7
+  origversion: 4.68.7-1mamba
   status: newest
   summary: Next-generation ES module bundler
   maintainers:
