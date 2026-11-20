@@ -14,13 +14,13 @@ x install rollup
 
 ## Code insight
 
-Total: **309,672** lines of code across **13385** files in the top 5 languages.
+Total: **309,536** lines of code across **13385** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | JavaScript | 247,411 | 4,425 | 24,878 | 12786 |
 | TypeScript | 37,108 | 1,475 | 3,061 | 376 |
-| Json | 19,116 | 0 | 0 | 86 |
+| Json | 18,980 | 0 | 0 | 86 |
 | Rust | 5,377 | 340 | 481 | 113 |
 | Html | 250 | 0 | 0 | 24 |
 
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v4.68.7` (2026-11-18)
-- **Last commit**: 2026-11-18
+- **Last commit**: 2026-11-20
 
 ## Popularity
 
-- **Stars**: 26,307 · **Forks**: 2,004 · **Open issues**: 3,529 · **Contributors**: 489
+- **Stars**: 26,317 · **Forks**: 2,009 · **Open issues**: 3,529 · **Contributors**: 490
 
 ## Totals (cumulative)
 
-- **Releases**: 624 · **Merged PRs**: 2629 · **Open PRs**: 30 · **Closed issues**: 2957 · **Open issues**: 572 · **Commits**: 6526
+- **Releases**: 624 · **Merged PRs**: 2635 · **Open PRs**: 28 · **Closed issues**: 2960 · **Open issues**: 569 · **Commits**: 6533
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 16 | 59 | 11 | 9 | 2 | 75 |
-| last60d | 2026-09-20 | 29 | 118 | 11 | 14 | 3 | 143 |
-| 90d | 2026-08-21 | 34 | 140 | 12 | 17 | 3 | 177 |
-| last180d | 2026-05-23 | 42 | 214 | 17 | 24 | 3 | 261 |
-| 360d | 2025-11-24 | 59 | 350 | 20 | 47 | 11 | 421 |
-| last720d | 2024-11-29 | 100 | 601 | 25 | 141 | 51 | 751 |
+| 30d | 2026-10-21 | 15 | 62 | 9 | 9 | 2 | 82 |
+| last60d | 2026-09-21 | 29 | 121 | 9 | 14 | 3 | 150 |
+| 90d | 2026-08-22 | 34 | 146 | 10 | 17 | 3 | 184 |
+| last180d | 2026-05-24 | 42 | 220 | 15 | 24 | 3 | 268 |
+| 360d | 2025-11-25 | 59 | 355 | 18 | 47 | 11 | 428 |
+| last720d | 2024-11-30 | 100 | 607 | 23 | 141 | 51 | 758 |
 
 ## Distribution status
 
@@ -70,7 +70,7 @@ Reported by **8** distros on [repology.org](https://repology.org/project/rollup)
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `4.68.5` | ✅ latest |
+| Homebrew | `4.68.7` | ✅ latest |
 | Alpine edge | `4.60.3` | ⚠️ outdated |
 | openSUSE Tumbleweed | `3.29.5` | ⚠️ outdated |
 
@@ -83,4 +83,4 @@ Install metadata for rollup lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T07:44:58Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T07:33:58Z._
