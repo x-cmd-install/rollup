@@ -14,13 +14,13 @@ x install rollup
 
 ## Code insight
 
-Total: **309,536** lines of code across **13385** files in the top 5 languages.
+Total: **309,777** lines of code across **13417** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| JavaScript | 247,411 | 4,425 | 24,878 | 12786 |
-| TypeScript | 37,108 | 1,475 | 3,061 | 376 |
-| Json | 18,980 | 0 | 0 | 86 |
+| JavaScript | 247,608 | 4,425 | 24,904 | 12818 |
+| TypeScript | 37,173 | 1,489 | 3,067 | 376 |
+| Json | 18,959 | 0 | 0 | 86 |
 | Rust | 5,377 | 340 | 481 | 113 |
 | Html | 250 | 0 | 0 | 24 |
 
@@ -42,31 +42,31 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v4.68.7` (2026-11-18)
-- **Last commit**: 2026-11-20
+- **Latest**: `v4.68.8` (2026-11-21)
+- **Last commit**: 2026-11-21
 
 ## Popularity
 
-- **Stars**: 26,317 · **Forks**: 2,009 · **Open issues**: 3,529 · **Contributors**: 490
+- **Stars**: 26,316 · **Forks**: 1,939 · **Open issues**: 3,529 · **Contributors**: 490
 
 ## Totals (cumulative)
 
-- **Releases**: 624 · **Merged PRs**: 2635 · **Open PRs**: 28 · **Closed issues**: 2960 · **Open issues**: 569 · **Commits**: 6533
+- **Releases**: 625 · **Merged PRs**: 2639 · **Open PRs**: 27 · **Closed issues**: 2960 · **Open issues**: 569 · **Commits**: 6538
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 15 | 62 | 9 | 9 | 2 | 82 |
-| last60d | 2026-09-21 | 29 | 121 | 9 | 14 | 3 | 150 |
-| 90d | 2026-08-22 | 34 | 146 | 10 | 17 | 3 | 184 |
-| last180d | 2026-05-24 | 42 | 220 | 15 | 24 | 3 | 268 |
-| 360d | 2025-11-25 | 59 | 355 | 18 | 47 | 11 | 428 |
-| last720d | 2024-11-30 | 100 | 607 | 23 | 141 | 51 | 758 |
+| 30d | 2026-10-22 | 16 | 62 | 8 | 9 | 2 | 87 |
+| last60d | 2026-09-22 | 30 | 123 | 8 | 14 | 3 | 155 |
+| 90d | 2026-08-23 | 35 | 150 | 9 | 17 | 3 | 189 |
+| last180d | 2026-05-25 | 43 | 224 | 14 | 24 | 3 | 273 |
+| 360d | 2025-11-26 | 60 | 359 | 17 | 47 | 11 | 433 |
+| last720d | 2024-12-01 | 100 | 610 | 22 | 141 | 51 | 759 |
 
 ## Distribution status
 
-Reported by **8** distros on [repology.org](https://repology.org/project/rollup). **2** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
+Reported by **7** distros on [repology.org](https://repology.org/project/rollup). **2** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -83,4 +83,4 @@ Install metadata for rollup lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T07:33:58Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T07:27:54Z._
