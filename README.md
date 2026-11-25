@@ -47,32 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 26,314 · **Forks**: 1,939 · **Open issues**: 3,532 · **Contributors**: 490
+- **Stars**: 26,314 · **Forks**: 1,941 · **Open issues**: 3,532 · **Contributors**: 490
 
 ## Totals (cumulative)
 
-- **Releases**: 625 · **Merged PRs**: 2641 · **Open PRs**: 33 · **Closed issues**: 2960 · **Open issues**: 572 · **Commits**: 6539
+- **Releases**: 625 · **Merged PRs**: 2641 · **Open PRs**: 36 · **Closed issues**: 2961 · **Open issues**: 571 · **Commits**: 6539
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 15 | 63 | 14 | 9 | 5 | 75 |
-| last60d | 2026-09-25 | 29 | 119 | 14 | 14 | 6 | 149 |
-| 90d | 2026-08-26 | 34 | 151 | 15 | 16 | 6 | 183 |
-| last180d | 2026-05-28 | 43 | 221 | 20 | 24 | 6 | 267 |
-| 360d | 2025-11-29 | 60 | 358 | 23 | 45 | 13 | 431 |
-| last720d | 2024-12-04 | 100 | 611 | 28 | 141 | 53 | 760 |
-
-## Distribution status
-
-Reported by **7** distros on [repology.org](https://repology.org/project/rollup). **2** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `4.68.8` | ✅ latest |
-| Alpine edge | `4.60.3` | ⚠️ outdated |
-| openSUSE Tumbleweed | `3.29.5` | ⚠️ outdated |
+| 30d | 2026-10-26 | 15 | 61 | 17 | 9 | 5 | 75 |
+| last60d | 2026-09-26 | 29 | 118 | 17 | 14 | 6 | 149 |
+| 90d | 2026-08-27 | 34 | 150 | 18 | 15 | 6 | 183 |
+| last180d | 2026-05-29 | 43 | 221 | 23 | 24 | 6 | 267 |
+| 360d | 2025-11-30 | 60 | 358 | 26 | 44 | 13 | 431 |
+| last720d | 2024-12-05 | 100 | 611 | 31 | 142 | 52 | 760 |
 
 ## Improve this data
 
@@ -83,4 +73,4 @@ Install metadata for rollup lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:43:02Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T08:43:16Z._
